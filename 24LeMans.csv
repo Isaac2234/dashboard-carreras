@@ -1,0 +1,1487 @@
+S.No,Hour,Car No.,Team,Drivers,Car,Category,Tyres  ,Laps,Total Time,Pitstops,Best Lap Number,Best LapTime,Best Lap Kph,Status
+1,1,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,12,01:01:15,0,10,03:29.7,234,Running 
+2,1,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,12,01:01:19,0,12,03:29.1,234.6,Running 
+3,1,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,12,01:01:21,0,12,03:30.0,233.6,Running 
+4,1,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,12,01:01:22,0,12,03:29.9,233.7,Running 
+5,1,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,12,01:01:23,0,9,03:30.0,233.6,Running 
+6,1,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,12,01:01:23,0,9,03:30.1,233.5,Running 
+7,1,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,12,01:01:24,0,10,03:30.2,233.4,Running 
+8,1,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,12,01:01:25,0,10,03:30.1,233.5,Running 
+9,1,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,12,01:01:26,1,10,03:29.5,234.2,Running 
+10,1,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÜLLER,Peugeot 9X8,HYPERCAR,M,12,01:01:28,0,10,03:29.7,234,Running 
+11,1,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,12,01:01:30,0,11,03:30.6,233,Running 
+12,1,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,12,01:01:49,0,12,03:32.9,230.4,Running 
+13,1,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÖRR,Oreca 07 - Gibson,LMP2,G,12,01:02:15,1,11,03:37.1,225.9,Running 
+14,1,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,12,01:02:16,1,9,03:30.2,233.4,Running 
+15,1,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,12,01:02:17,1,11,03:36.4,226.7,Running 
+16,1,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,12,01:02:21,1,11,03:37.3,225.7,Running 
+17,1,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,12,01:02:27,1,10,03:37.4,225.6,Running 
+18,1,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,12,01:02:27,1,11,03:37.7,225.3,Running 
+19,1,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,12,01:02:28,1,11,03:37.8,225.2,Running 
+20,1,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,12,01:02:29,1,10,03:37.8,225.2,Running 
+21,1,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,12,01:02:31,1,12,03:28.3,235.5,Running 
+22,1,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,12,01:02:32,1,9,03:38.0,225,Running 
+23,1,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,12,01:02:33,1,10,03:38.1,225,Running 
+24,1,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,12,01:02:35,1,11,03:39.0,224,Running 
+25,1,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,12,01:02:35,1,11,03:39.0,223.9,Running 
+26,1,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,12,01:02:37,1,12,03:38.5,224.5,Running 
+27,1,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,12,01:02:39,1,10,03:39.4,223.5,Running 
+28,1,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,12,01:02:42,1,12,03:39.5,223.5,Running 
+29,1,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,12,01:03:13,1,12,03:44.1,218.9,Running 
+30,1,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,12,01:03:19,1,11,03:44.6,218.4,Running 
+31,1,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,12,01:03:26,1,10,03:46.1,216.9,Running 
+32,1,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,12,01:03:27,1,10,03:37.3,225.7,Running 
+33,1,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,12,01:03:33,1,10,03:37.7,225.3,Running 
+34,1,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,12,01:03:35,1,10,03:38.1,225,Running 
+35,1,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,12,01:03:55,0,8,03:52.1,211.3,Running 
+36,1,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,12,01:03:57,0,11,03:51.4,211.9,Running 
+37,1,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,12,01:03:58,0,8,03:51.4,212,Running 
+38,1,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,12,01:03:59,0,8,03:52.1,211.3,Running 
+39,1,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,12,01:04:00,1,9,03:37.6,225.4,Running 
+40,1,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,12,01:04:04,0,8,03:52.5,211,Running 
+41,1,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,12,01:04:05,0,8,03:52.5,211,Running 
+42,1,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,12,01:04:05,1,8,03:52.2,211.2,Running 
+43,1,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,12,01:04:08,1,8,03:51.3,212.1,Running 
+44,1,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,12,01:04:12,1,9,03:53.2,210.4,Running 
+45,1,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,12,01:04:13,1,10,03:52.2,211.2,Running 
+46,1,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,12,01:04:19,0,11,03:54.8,208.9,Running 
+47,1,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,12,01:04:29,1,11,03:54.7,209,Running 
+48,1,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,12,01:04:29,1,10,03:54.9,208.9,Running 
+49,1,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,12,01:04:31,1,10,03:54.9,208.9,Running 
+50,1,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,12,01:04:32,1,8,03:53.8,209.8,Running 
+51,1,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,12,01:04:33,1,10,03:39.9,223.1,Running 
+52,1,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,12,01:04:33,1,9,03:55.1,208.6,Running 
+53,1,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,12,01:04:34,1,9,03:55.4,208.4,Running 
+54,1,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,11,00:59:02,1,10,03:39.1,223.9,Running 
+55,1,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,11,01:00:20,0,8,03:53.1,210.5,Running 
+56,1,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,11,01:00:59,1,8,03:58.2,205.9,Running 
+57,1,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,11,01:00:59,1,10,04:00.3,204.1,Running 
+58,1,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,11,01:01:00,1,10,04:00.0,204.4,Running 
+59,1,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,11,01:01:00,1,10,03:58.7,205.5,Running 
+60,1,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,11,01:01:30,1,9,03:30.4,233.1,Running 
+61,1,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,11,01:03:42,0,9,03:49.2,214,Running 
+62,1,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR ,M,1,00:06:04,1,,,,Running 
+63,2,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,26,02:01:05,1,10,03:30.2,233.4,Running 
+64,2,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,26,02:01:10,1,9,03:30.1,233.5,Running 
+65,2,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,26,02:01:13,1,12,03:29.9,233.7,Running 
+66,2,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,26,02:01:26,2,10,03:29.7,234,Running 
+67,2,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,26,02:01:32,3,10,03:29.5,234.2,Running 
+68,2,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,26,02:01:33,2,9,03:30.0,233.6,Running 
+69,2,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,26,02:01:35,2,12,03:30.0,233.6,Running 
+70,2,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,26,02:01:35,2,19,03:29.8,233.8,Running 
+71,2,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,26,02:01:36,2,12,03:29.1,234.6,Running 
+72,2,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÜLLER,Peugeot 9X8,HYPERCAR,M,26,02:01:55,2,10,03:29.7,234,Running 
+73,2,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,26,02:02:02,2,10,03:30.1,233.5,Running 
+74,2,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,26,02:02:40,2,11,03:30.6,233,Running 
+75,2,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,26,02:04:32,3,12,03:32.9,230.4,Running 
+76,2,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,26,02:05:15,3,12,03:28.3,235.5,Running 
+77,2,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,26,02:05:35,2,11,03:36.4,226.7,Running 
+78,2,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,26,02:05:44,3,10,03:37.4,225.6,Running 
+79,2,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,26,02:05:45,2,11,03:37.3,225.7,Running 
+80,2,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,25,02:01:02,2,10,03:37.7,225.3,Running 
+81,2,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,25,02:01:14,2,11,03:37.7,225.3,Running 
+82,2,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,25,02:01:15,3,11,03:39.0,223.9,Running 
+83,2,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,25,02:01:18,3,13,03:38.7,224.3,Running 
+84,2,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÖRR,Oreca 07 - Gibson,LMP2,G,25,02:01:19,2,11,03:37.1,225.9,Running 
+85,2,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,25,02:01:24,2,10,03:38.1,225,Running 
+86,2,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,25,02:01:25,2,11,03:37.8,225.2,Running 
+87,2,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,25,02:01:31,2,10,03:38.1,225,Running 
+88,2,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,25,02:01:34,2,10,03:37.3,225.7,Running 
+89,2,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,25,02:01:34,3,13,03:39.4,223.6,Running 
+90,2,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,25,02:01:34,3,10,03:37.8,225.2,Running 
+91,2,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,25,02:01:36,3,13,03:38.4,224.6,Running 
+92,2,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,25,02:02:32,3,11,03:39.0,224,Running 
+93,2,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,25,02:02:41,3,13,03:43.1,219.9,Running 
+94,2,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,25,02:03:02,3,9,03:30.4,233.1,Running 
+95,2,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,25,02:03:35,2,10,03:39.9,223.1,Running 
+96,2,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,25,02:03:43,2,9,03:37.6,225.4,Running 
+97,2,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,25,02:03:55,2,9,03:38.0,225,Running 
+98,2,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,25,02:04:03,3,10,03:46.1,216.9,Running 
+99,2,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,25,02:05:34,1,11,03:51.4,211.9,Running 
+100,2,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,25,02:05:52,2,10,03:52.2,211.2,Running 
+101,2,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,24,02:01:00,2,10,03:54.9,208.9,Running 
+102,2,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,24,02:01:01,2,16,03:53.1,210.5,Running 
+103,2,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,24,02:01:13,1,8,03:52.1,211.3,Running 
+104,2,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,24,02:01:21,2,8,03:52.1,211.3,Running 
+105,2,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,24,02:01:31,2,10,03:54.9,208.9,Running 
+106,2,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,24,02:01:32,2,11,03:54.7,209,Running 
+107,2,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,24,02:01:33,2,8,03:53.8,209.8,Running 
+108,2,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,24,02:01:38,2,14,03:55.0,208.7,Running 
+109,2,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,24,02:02:12,2,8,03:52.2,211.2,Running 
+110,2,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,24,02:02:25,2,8,03:51.4,212,Running 
+111,2,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,24,02:02:25,1,8,03:52.5,211,Running 
+112,2,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,24,02:02:27,2,8,03:52.5,211,Running 
+113,2,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,24,02:02:37,2,9,03:55.1,208.6,Running 
+114,2,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,24,02:02:48,2,8,03:53.1,210.5,Running 
+115,2,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,24,02:03:02,2,10,04:00.3,204.1,Running 
+116,2,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,24,02:03:06,2,10,03:58.7,205.5,Running 
+117,2,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,23,01:59:57,2,9,03:49.2,214,Running 
+118,2,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,23,02:04:43,3,17,03:58.6,205.6,Running 
+119,2,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,22,02:01:30,3,8,03:51.3,212.1,Running 
+120,2,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Running 
+121,2,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Running 
+122,2,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Running 
+123,2,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Running 
+124,2,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR ,M,10,02:04:22,1,3,03:35.6,227.6,Running 
+125,3,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,39,03:04:58,4,31,03:29.0,234.7,Running 
+126,3,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,39,03:05:07,4,12,03:29.1,234.6,Running 
+127,3,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÜLLER,Peugeot 9X8,HYPERCAR,M,39,03:06:34,4,10,03:29.7,234,Running 
+128,3,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,39,03:06:50,5,10,03:29.5,234.2,Running 
+129,3,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,39,03:06:55,4,12,03:30.0,233.6,Running 
+130,3,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,39,03:06:56,3,10,03:30.2,233.4,Running 
+131,3,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,39,03:06:57,4,10,03:29.7,234,Running 
+132,3,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,39,03:07:01,4,9,03:30.0,233.6,Running 
+133,3,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,39,03:07:05,4,10,03:30.1,233.5,Running 
+134,3,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,39,03:09:48,3,12,03:29.9,233.7,Running 
+135,3,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,39,03:10:00,3,9,03:30.1,233.5,Running 
+136,3,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,39,03:13:57,4,11,03:30.6,233,Running 
+137,3,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,39,03:13:59,4,12,03:28.3,235.5,Running 
+138,3,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,38,03:07:08,3,11,03:37.3,225.7,Running 
+139,3,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,38,03:09:01,4,10,03:38.1,225,Running 
+140,3,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,38,03:09:52,5,10,03:37.4,225.6,Running 
+141,3,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,38,03:10:01,4,10,03:37.7,225.3,Running 
+142,3,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,38,03:10:04,4,11,03:37.7,225.3,Running 
+143,3,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,38,03:10:07,4,10,03:38.1,225,Running 
+144,3,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,38,03:10:08,5,13,03:38.7,224.3,Running 
+145,3,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,38,03:10:09,6,11,03:39.0,223.9,Running 
+146,3,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,38,03:10:12,4,11,03:36.4,226.7,Running 
+147,3,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,38,03:11:45,4,29,03:30.1,233.5,Running 
+148,3,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,38,03:13:13,4,13,03:43.1,219.9,Running 
+149,3,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,38,03:13:57,5,10,03:37.8,225.2,Running 
+150,3,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÖRR,Oreca 07 - Gibson,LMP2,G,38,03:14:00,4,11,03:37.1,225.9,Running 
+151,3,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,38,03:14:01,4,10,03:37.3,225.7,Running 
+152,3,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,37,03:07:01,5,29,03:40.1,222.9,Running 
+153,3,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,37,03:07:10,4,9,03:37.6,225.4,Running 
+154,3,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,37,03:07:23,4,9,03:38.0,225,Running 
+155,3,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,37,03:10:03,4,10,03:39.9,223.1,Running 
+156,3,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,37,03:10:10,5,11,03:39.0,224,Running 
+157,3,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,37,03:10:13,5,13,03:39.4,223.6,Running 
+158,3,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,37,03:13:58,3,8,03:52.1,211.3,Running 
+159,3,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,36,03:06:36,3,10,03:54.9,208.9,Running 
+160,3,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,36,03:07:21,3,11,03:51.4,211.9,Running 
+161,3,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,36,03:08:57,4,16,03:53.1,210.5,Running 
+162,3,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,36,03:08:59,4,14,03:55.0,208.7,Running 
+163,3,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,36,03:10:06,4,29,03:52.8,210.7,Running 
+164,3,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,36,03:10:08,4,10,03:54.9,208.9,Running 
+165,3,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,36,03:10:11,4,8,03:53.1,210.5,Running 
+166,3,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,36,03:10:16,3,8,03:52.5,211,Running 
+167,3,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,36,03:11:45,3,8,03:52.2,211.2,Running 
+168,3,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,35,02:56:20,4,10,03:52.2,211.2,Running 
+169,3,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,35,03:00:16,3,8,03:52.1,211.3,Running 
+170,3,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,35,03:07:08,4,9,03:55.1,208.6,Running 
+171,3,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,35,03:08:57,4,26,03:55.4,208.3,Running 
+172,3,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,35,03:10:01,4,11,03:54.7,209,Running 
+173,3,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,34,02:43:29,4,11,03:37.8,225.2,Running 
+174,3,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,34,02:56:40,4,31,03:42.4,220.6,Running 
+175,3,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,34,03:07:11,4,8,03:51.3,212.1,Running 
+176,3,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,34,03:10:16,5,12,03:32.9,230.4,Running 
+177,3,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Running 
+178,3,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,32,02:44:05,4,10,04:00.3,204.1,Running 
+179,3,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,31,02:33:01,4,13,03:38.4,224.6,Running 
+180,3,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Running 
+181,3,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Running 
+182,3,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,23,03:14:03,3,12,03:31.7,231.7,Running 
+183,3,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Running 
+184,3,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Running 
+185,3,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Running 
+186,3,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Running 
+187,4,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÜLLER,Peugeot 9X8,HYPERCAR,M,47,04:04:45,4,10,03:29.7,234,Running 
+188,4,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,47,04:05:10,4,9,03:30.0,233.6,Running 
+189,4,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,47,04:05:13,4,12,03:30.0,233.6,Running 
+190,4,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,47,04:05:17,4,10,03:29.7,234,Running 
+191,4,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,47,04:05:18,3,12,03:29.9,233.7,Running 
+192,4,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,47,04:05:28,6,10,03:29.5,234.2,Running 
+193,4,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,47,04:05:29,4,10,03:30.2,233.4,Running 
+194,4,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,47,04:05:32,5,31,03:29.0,234.7,Running 
+195,4,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,47,04:05:33,5,12,03:29.1,234.6,Running 
+196,4,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,47,04:06:34,4,9,03:30.1,233.5,Running 
+197,4,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,47,04:06:37,4,11,03:30.6,233,Running 
+198,4,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,47,04:06:38,4,12,03:28.3,235.5,Running 
+199,4,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,46,04:06:30,4,29,03:30.1,233.5,Running 
+200,4,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,45,04:04:27,4,10,03:38.1,225,Running 
+201,4,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,45,04:04:29,5,10,03:37.4,225.6,Running 
+202,4,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,45,04:04:30,4,10,03:37.7,225.3,Running 
+203,4,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,45,04:04:33,6,11,03:39.0,223.9,Running 
+204,4,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,45,04:04:35,4,11,03:36.4,226.7,Running 
+205,4,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,45,04:04:37,4,11,03:37.3,225.7,Running 
+206,4,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,45,04:04:38,5,11,03:37.7,225.3,Running 
+207,4,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,45,04:04:40,5,10,03:38.1,225,Running 
+208,4,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,45,04:04:41,5,10,03:37.8,225.2,Running 
+209,4,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÖRR,Oreca 07 - Gibson,LMP2,G,45,04:04:42,4,11,03:37.1,225.9,Running 
+210,4,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,45,04:04:44,4,10,03:37.3,225.7,Running 
+211,4,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,45,04:04:50,5,29,03:40.1,222.9,Running 
+212,4,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,45,04:04:52,4,9,03:37.6,225.4,Running 
+213,4,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,45,04:04:55,4,9,03:38.0,225,Running 
+214,4,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,45,04:04:57,7,13,03:38.7,224.3,Running 
+215,4,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,45,04:05:00,5,13,03:43.1,219.9,Running 
+216,4,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR ,M,45,04:05:02,5,10,03:30.1,233.5,Running 
+217,4,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,44,04:04:30,4,10,03:39.9,223.1,Running 
+218,4,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,44,04:04:34,5,11,03:39.0,224,Running 
+219,4,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,44,04:04:37,5,13,03:39.4,223.6,Running 
+220,4,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,44,04:04:46,3,10,03:54.9,208.9,Running 
+221,4,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,44,04:04:54,3,11,03:51.4,211.9,Running 
+222,4,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,44,04:05:05,4,16,03:53.1,210.5,Running 
+223,4,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,44,04:05:07,4,14,03:55.0,208.7,Running 
+224,4,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,44,04:05:27,4,29,03:52.8,210.7,Running 
+225,4,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,44,04:05:27,4,8,03:53.1,210.5,Running 
+226,4,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,44,04:05:28,4,8,03:52.1,211.3,Running 
+227,4,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,44,04:06:30,4,10,03:54.9,208.9,Running 
+228,4,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,44,04:06:32,3,8,03:52.2,211.2,Running 
+229,4,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,44,04:06:34,4,8,03:52.5,211,Running 
+230,4,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,43,04:04:49,4,8,03:52.1,211.3,Running 
+231,4,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,43,04:04:51,4,9,03:55.1,208.6,Running 
+232,4,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,43,04:05:04,4,26,03:55.4,208.3,Running 
+233,4,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,43,04:05:26,4,11,03:54.7,209,Running 
+234,4,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,43,04:06:36,5,10,03:52.2,211.2,Running 
+235,4,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,42,04:04:53,4,8,03:51.3,212.1,Running 
+236,4,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,42,04:06:42,6,12,03:32.9,230.4,Running 
+237,4,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,41,04:04:28,4,11,03:37.8,225.2,Running 
+238,4,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,40,04:06:32,5,10,04:00.3,204.1,Running 
+239,4,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,39,03:46:50,5,31,03:42.4,220.6,Running 
+240,4,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Running 
+241,4,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,33,04:05:03,4,13,03:38.4,224.6,Running 
+242,4,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,31,04:06:41,3,12,03:31.7,231.7,Running 
+243,4,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Running 
+244,4,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Running 
+245,4,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Running 
+246,4,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Running 
+247,4,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Running 
+248,4,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Running 
+249,5,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,60,05:04:08,4,12,03:29.9,233.7,Running 
+250,5,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,60,05:04:12,5,10,03:29.7,234,Running 
+251,5,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,60,05:04:14,5,12,03:30.0,233.6,Running 
+252,5,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÜLLER,Peugeot 9X8,HYPERCAR,M,60,05:04:19,6,10,03:29.7,234,Running 
+253,5,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,60,05:04:34,6,31,03:29.0,234.7,Running 
+254,5,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,60,05:04:57,6,12,03:29.1,234.6,Running 
+255,5,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,60,05:05:47,5,56,03:29.9,233.7,Running 
+256,5,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,60,05:06:01,6,11,03:30.6,233,Running 
+257,5,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,60,05:06:28,6,9,03:30.1,233.5,Running 
+258,5,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,60,05:07:18,6,12,03:28.3,235.5,Running 
+259,5,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,59,05:07:17,6,9,03:30.0,233.6,Running 
+260,5,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,59,05:07:32,6,29,03:30.1,233.5,Running 
+261,5,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,58,04:52:47,7,56,03:29.0,234.7,Running 
+262,5,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,58,05:04:28,6,10,03:30.1,233.5,Running 
+263,5,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,58,05:07:16,5,11,03:36.4,226.7,Running 
+264,5,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,58,05:07:22,5,11,03:37.3,225.7,Running 
+265,5,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,58,05:07:23,6,10,03:37.7,225.3,Running 
+266,5,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,58,05:07:36,8,13,03:38.7,224.3,Running 
+267,5,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,58,05:07:37,6,10,03:37.8,225.2,Running 
+268,5,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,58,05:07:49,6,54,03:39.0,224,Running 
+269,5,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,58,05:07:53,6,13,03:43.1,219.9,Running 
+270,5,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,58,05:07:55,6,10,03:38.1,225,Running 
+271,5,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,58,05:08:19,6,11,03:37.7,225.3,Running 
+272,5,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,58,05:08:21,6,10,03:37.3,225.7,Running 
+273,5,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,58,05:08:27,5,9,03:38.0,225,Running 
+274,5,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,57,05:02:44,8,11,03:39.0,223.9,Running 
+275,5,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÖRR,Oreca 07 - Gibson,LMP2,G,57,05:03:06,6,11,03:37.1,225.9,Running 
+276,5,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,57,05:03:18,6,10,03:38.1,225,Running 
+277,5,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,57,05:06:17,5,9,03:37.6,225.4,Running 
+278,5,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,57,05:06:32,7,10,03:37.4,225.6,Running 
+279,5,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,57,05:07:57,6,53,03:39.3,223.6,Running 
+280,5,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,57,05:08:01,5,54,03:39.9,223.1,Running 
+281,5,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,57,05:08:02,7,11,03:39.0,224,Running 
+282,5,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,56,05:07:13,5,8,03:52.1,211.3,Running 
+283,5,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,56,05:07:15,5,16,03:53.1,210.5,Running 
+284,5,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,56,05:07:18,4,10,03:54.9,208.9,Running 
+285,5,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,56,05:07:28,5,14,03:55.0,208.7,Running 
+286,5,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,56,05:07:42,5,8,03:53.1,210.5,Running 
+287,5,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,56,05:07:50,4,11,03:51.4,211.9,Running 
+288,5,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,56,05:08:14,5,8,03:52.5,211,Running 
+289,5,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,56,05:08:23,6,29,03:52.8,210.7,Running 
+290,5,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,55,05:04:11,4,8,03:52.2,211.2,Running 
+291,5,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,55,05:06:27,6,8,03:52.1,211.3,Running 
+292,5,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,55,05:07:15,5,26,03:55.4,208.3,Running 
+293,5,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,55,05:07:16,5,9,03:55.1,208.6,Running 
+294,5,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,55,05:07:24,7,12,03:32.9,230.4,Running 
+295,5,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,55,05:08:34,7,10,03:54.9,208.9,Running 
+296,5,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,55,05:08:37,6,10,03:52.2,211.2,Running 
+297,5,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,54,05:05:41,5,11,03:54.7,209,Running 
+298,5,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,54,05:06:36,5,8,03:51.3,212.1,Running 
+299,5,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,53,05:06:44,6,11,03:37.8,225.2,Running 
+300,5,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,52,05:07:46,6,48,03:56.4,207.5,Running 
+301,5,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,45,05:06:45,5,13,03:38.4,224.6,Running 
+302,5,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,45,05:06:47,5,31,03:42.4,220.6,Running 
+303,5,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,44,05:07:05,4,41,03:31.5,232,Running 
+304,5,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Running 
+305,5,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Running 
+306,5,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Running 
+307,5,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Running 
+308,5,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Running 
+309,5,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Running 
+310,5,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Running 
+311,6,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,75,06:02:05,7,12,03:29.1,234.6,Running 
+312,6,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,75,06:02:12,6,12,03:29.9,233.7,Running 
+313,6,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,75,06:02:15,7,31,03:29.0,234.7,Running 
+314,6,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÜLLER,Peugeot 9X8,HYPERCAR,M,75,06:02:26,7,10,03:29.7,234,Running 
+315,6,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,75,06:02:58,6,56,03:29.9,233.7,Running 
+316,6,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,75,06:03:28,7,10,03:29.7,234,Running 
+317,6,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,75,06:03:30,7,12,03:30.0,233.6,Running 
+318,6,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,74,06:00:31,8,12,03:28.3,235.5,Running 
+319,6,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,74,06:03:10,8,9,03:30.1,233.5,Running 
+320,6,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,74,06:04:16,7,9,03:30.0,233.6,Running 
+321,6,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,73,06:02:16,7,10,03:30.1,233.5,Running 
+322,6,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,73,06:04:43,7,11,03:30.6,233,Running 
+323,6,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,73,06:05:45,8,29,03:30.1,233.5,Running 
+324,6,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,72,06:03:18,9,66,03:38.6,224.4,Running 
+325,6,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,72,06:03:50,7,10,03:37.7,225.3,Running 
+326,6,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,72,06:03:53,7,11,03:37.3,225.7,Running 
+327,6,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,72,06:04:10,7,11,03:36.4,226.7,Running 
+328,6,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,72,06:04:11,7,10,03:38.1,225,Running 
+329,6,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,72,06:04:27,8,10,03:37.8,225.2,Running 
+330,6,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,72,06:04:44,10,11,03:39.0,223.9,Running 
+331,6,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,72,06:04:51,7,10,03:38.1,225,Running 
+332,6,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÖRR,Oreca 07 - Gibson,LMP2,G,72,06:04:51,8,11,03:37.1,225.9,Running 
+333,6,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,72,06:04:56,7,13,03:43.1,219.9,Running 
+334,6,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,72,06:05:36,7,10,03:37.3,225.7,Running 
+335,6,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,71,06:01:55,6,9,03:38.0,225,Running 
+336,6,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,71,06:02:42,8,56,03:29.0,234.7,Running 
+337,6,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,71,06:02:49,9,10,03:37.4,225.6,Running 
+338,6,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,71,06:02:56,8,54,03:39.0,224,Running 
+339,6,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,71,06:04:20,7,9,03:37.6,225.4,Running 
+340,6,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,71,06:04:37,7,65,03:39.3,223.7,Running 
+341,6,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,71,06:04:52,7,11,03:37.7,225.3,Running 
+342,6,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,71,06:04:55,8,11,03:39.0,224,Running 
+343,6,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,71,06:04:57,8,53,03:39.3,223.6,Running 
+344,6,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,69,06:02:10,6,8,03:53.1,210.5,Running 
+345,6,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,69,06:02:42,5,10,03:54.9,208.9,Running 
+346,6,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,69,06:02:47,6,8,03:52.1,211.3,Running 
+347,6,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,69,06:02:47,5,11,03:51.4,211.9,Running 
+348,6,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,69,06:03:13,6,16,03:53.1,210.5,Running 
+349,6,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,69,06:04:19,9,12,03:32.9,230.4,Running 
+350,6,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,69,06:04:29,7,29,03:52.8,210.7,Running 
+351,6,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,69,06:05:02,7,63,03:51.2,212.2,Running 
+352,6,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,69,06:05:13,7,8,03:52.5,211,Running 
+353,6,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,68,06:01:41,6,26,03:55.4,208.3,Running 
+354,6,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,68,06:02:32,6,9,03:55.1,208.6,Running 
+355,6,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,68,06:02:35,5,8,03:52.2,211.2,Running 
+356,6,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,68,06:05:03,6,8,03:51.3,212.1,Running 
+357,6,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,68,06:05:03,7,10,03:52.2,211.2,Running 
+358,6,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,67,06:01:35,7,10,03:54.9,208.9,Running 
+359,6,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,67,06:01:54,6,11,03:54.7,209,Running 
+360,6,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,67,06:03:34,8,11,03:37.8,225.2,Running 
+361,6,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,66,06:05:25,7,48,03:56.4,207.5,Running 
+362,6,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,59,06:02:55,6,57,03:39.4,223.6,Running 
+363,6,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Running 
+364,6,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,58,06:01:14,6,54,03:30.6,232.9,Running 
+365,6,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,58,06:03:08,6,13,03:38.4,224.6,Running 
+366,6,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Running 
+367,6,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Running 
+368,6,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Running 
+369,6,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Running 
+370,6,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Running 
+371,6,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Running 
+372,6,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Running 
+373,7,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,89,07:01:58,8,12,03:29.1,234.6,Running 
+374,7,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÜLLER,Peugeot 9X8,HYPERCAR,M,89,07:03:04,9,10,03:29.7,234,Running 
+375,7,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,89,07:03:22,8,12,03:30.0,233.6,Running 
+376,7,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,89,07:03:56,8,56,03:29.9,233.7,Running 
+377,7,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,89,07:04:22,8,10,03:29.7,234,Running 
+378,7,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,89,07:05:01,10,31,03:29.0,234.7,Running 
+379,7,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,88,07:02:50,9,9,03:30.1,233.5,Running 
+380,7,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,88,07:03:14,9,12,03:28.3,235.5,Running 
+381,7,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,88,07:05:45,9,9,03:30.0,233.6,Running 
+382,7,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,87,07:04:27,9,10,03:30.1,233.5,Running 
+383,7,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,86,07:04:12,9,29,03:30.1,233.5,Running 
+384,7,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,86,07:04:19,10,11,03:30.6,233,Running 
+385,7,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,85,07:02:46,11,66,03:38.6,224.4,Running 
+386,7,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,85,07:02:49,9,10,03:37.7,225.3,Running 
+387,7,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,85,07:02:53,9,56,03:29.0,234.7,Running 
+388,7,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,85,07:03:33,9,11,03:36.4,226.7,Running 
+389,7,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,85,07:04:54,9,11,03:37.3,225.7,Running 
+390,7,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,85,07:05:47,9,10,03:38.1,225,Running 
+391,7,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,85,07:05:56,9,13,03:43.1,219.9,Running 
+392,7,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Running 
+393,7,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,84,07:00:55,8,9,03:38.0,225,Running 
+394,7,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,84,07:01:59,9,10,03:38.1,225,Running 
+395,7,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,84,07:02:04,11,11,03:39.0,223.9,Running 
+396,7,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÖRR,Oreca 07 - Gibson,LMP2,G,84,07:02:33,8,11,03:37.1,225.9,Running 
+397,7,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,84,07:02:43,8,10,03:37.3,225.7,Running 
+398,7,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,84,07:02:47,10,54,03:39.0,224,Running 
+399,7,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,84,07:02:55,11,10,03:37.4,225.6,Running 
+400,7,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,84,07:04:22,9,65,03:39.3,223.7,Running 
+401,7,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,84,07:04:36,9,11,03:37.7,225.3,Running 
+402,7,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,84,07:04:47,10,11,03:39.0,224,Running 
+403,7,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,84,07:05:03,10,53,03:39.3,223.6,Running 
+404,7,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,83,07:00:48,8,9,03:37.6,225.4,Running 
+405,7,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,82,07:02:46,6,11,03:51.4,211.9,Running 
+406,7,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,82,07:02:58,10,12,03:32.9,230.4,Running 
+407,7,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,82,07:03:04,6,10,03:54.9,208.9,Running 
+408,7,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,82,07:05:05,8,8,03:52.1,211.3,Running 
+409,7,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,82,07:05:51,7,8,03:52.5,211,Running 
+410,7,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,81,07:01:43,7,16,03:53.1,210.5,Running 
+411,7,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,81,07:02:22,8,29,03:52.8,210.7,Running 
+412,7,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,81,07:02:22,7,26,03:55.4,208.3,Running 
+413,7,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,81,07:03:31,9,63,03:51.2,212.2,Running 
+414,7,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,81,07:03:47,6,8,03:52.2,211.2,Running 
+415,7,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,81,07:03:47,8,9,03:55.1,208.6,Running 
+416,7,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,80,07:02:12,8,10,03:52.2,211.2,Running 
+417,7,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,80,07:03:11,7,8,03:51.3,212.1,Running 
+418,7,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,80,07:04:03,10,11,03:37.8,225.2,Running 
+419,7,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,80,07:05:54,7,11,03:54.7,209,Running 
+420,7,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,79,07:04:31,8,10,03:54.9,208.9,Running 
+421,7,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,79,07:05:25,8,48,03:56.4,207.5,Running 
+422,7,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,77,07:05:20,7,8,03:53.1,210.5,Running 
+423,7,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,76,07:03:54,9,10,03:37.8,225.2,Running 
+424,7,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,72,07:02:29,8,57,03:39.4,223.6,Running 
+425,7,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR ,M,72,07:05:03,8,54,03:30.6,232.9,Running 
+426,7,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,71,07:04:12,8,13,03:38.4,224.6,Running 
+427,7,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Running 
+428,7,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+429,7,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+430,7,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+431,7,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+432,7,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+433,7,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+434,7,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+435,8,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÜLLER,Peugeot 9X8,HYPERCAR,M,104,08:05:49,10,10,03:29.7,234,Running 
+436,8,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,104,08:07:24,11,31,03:29.0,234.7,Running 
+437,8,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,104,08:07:26,9,56,03:29.9,233.7,Running 
+438,8,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,104,08:08:31,10,12,03:29.1,234.6,Running 
+439,8,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,104,08:09:57,10,10,03:29.7,234,Running 
+440,8,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Running 
+441,8,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,103,08:07:23,11,9,03:30.1,233.5,Running 
+442,8,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,103,08:07:24,11,12,03:28.3,235.5,Running 
+443,8,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,103,08:09:48,10,9,03:30.0,233.6,Running 
+444,8,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,102,08:07:31,10,10,03:30.1,233.5,Running 
+445,8,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,101,08:08:31,11,29,03:30.1,233.5,Running 
+446,8,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,101,08:11:24,11,11,03:30.6,233,Running 
+447,8,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,100,08:05:53,11,56,03:29.0,234.7,Running 
+448,8,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,100,08:09:37,12,66,03:38.6,224.4,Running 
+449,8,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,100,08:10:22,10,11,03:36.4,226.7,Running 
+450,8,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,99,08:06:58,10,13,03:43.1,219.9,Running 
+451,8,28, JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,99,08:07:18,10,11,03:37.3,225.7,Running 
+452,8,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,99,08:07:19,9,9,03:38.0,225,Running 
+453,8,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,99,08:07:40,11,10,03:38.1,225,Running 
+454,8,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,99,08:07:43,13,11,03:39.0,223.9,Running 
+455,8,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,99,08:07:58,12,54,03:39.0,224,Running 
+456,8,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,99,08:07:59,11,10,03:38.1,225,Running 
+457,8,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÖRR,Oreca 07 - Gibson,LMP2,G,99,08:10:53,10,11,03:37.1,225.9,Running 
+458,8,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,99,08:11:21,10,65,03:39.3,223.7,Running 
+459,8,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,99,08:11:22,12,10,03:37.4,225.6,Running 
+460,8,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,99,08:11:31,11,10,03:37.3,225.7,Running 
+461,8,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,98,08:07:24,10,11,03:37.7,225.3,Running 
+462,8,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,98,08:07:56,11,53,03:39.3,223.6,Running 
+463,8,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,98,08:08:13,12,11,03:39.0,224,Running 
+464,8,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,97,08:07:01,10,10,03:37.7,225.3,Running 
+465,8,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,96,08:06:58,7,11,03:51.4,211.9,Running 
+466,8,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,96,08:07:50,7,10,03:54.9,208.9,Running 
+467,8,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,96,08:09:41,9,8,03:52.1,211.3,Running 
+468,8,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,96,08:11:24,8,8,03:52.5,211,Running 
+469,8,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,95,08:06:35,8,16,03:53.1,210.5,Running 
+470,8,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,95,08:07:24,10,29,03:52.8,210.7,Running 
+471,8,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,95,08:07:30,8,26,03:55.4,208.3,Running 
+472,8,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,95,08:08:08,10,63,03:51.2,212.2,Running 
+473,8,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,95,08:08:26,12,12,03:32.9,230.4,Running 
+474,8,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,95,08:11:22,9,10,03:52.2,211.2,Running 
+475,8,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,95,08:11:29,7,8,03:52.2,211.2,Running 
+476,8,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,94,08:06:55,8,8,03:51.3,212.1,Running 
+477,8,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,94,08:06:58,12,11,03:37.8,225.2,Running 
+478,8,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,93,08:07:23,8,11,03:54.7,209,Running 
+479,8,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,93,08:09:08,10,89,03:55.1,208.7,Running 
+480,8,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,92,08:06:36,9,10,03:54.9,208.9,Running 
+481,8,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,91,08:06:57,10,9,03:55.1,208.6,Running 
+482,8,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,90,08:06:55,11,10,03:37.8,225.2,Running 
+483,8,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Running 
+484,8,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Running 
+485,8,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR ,M,87,08:09:24,9,54,03:30.6,232.9,Running 
+486,8,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,86,08:06:24,10,57,03:39.4,223.6,Running 
+487,8,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,86,08:10:17,10,13,03:38.4,224.6,Running 
+488,8,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+489,8,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+490,8,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+491,8,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+492,8,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+493,8,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+494,8,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+495,8,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+496,8,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+497,9,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,112,09:04:57,11,10,03:29.7,234,Running 
+498,9,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,112,09:05:12,10,10,03:29.7,234,Running 
+499,9,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,112,09:05:19,10,56,03:29.9,233.7,Running 
+500,9,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,112,09:05:21,12,31,03:29.0,234.7,Running 
+501,9,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,112,09:05:23,11,12,03:29.1,234.6,Running 
+502,9,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,111,09:05:04,11,12,03:28.3,235.5,Running 
+503,9,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,111,09:05:11,10,9,03:30.0,233.6,Running 
+504,9,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,111,09:05:24,12,9,03:30.1,233.5,Running 
+505,9,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,110,09:05:08,11,10,03:30.1,233.5,Running 
+506,9,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,109,09:05:18,11,11,03:30.6,233,Running 
+507,9,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,109,09:05:28,12,29,03:30.1,233.5,Running 
+508,9,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,108,09:05:05,12,56,03:29.0,234.7,Running 
+509,9,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,107,09:04:56,11,11,03:36.4,226.7,Running 
+510,9,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,107,09:05:02,14,66,03:38.6,224.4,Running 
+511,9,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,107,09:05:09,11,10,03:38.1,225,Running 
+512,9,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,107,09:05:14,10,11,03:37.1,225.9,Running 
+513,9,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,107,09:05:17,10,65,03:39.3,223.7,Running 
+514,9,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,107,09:05:31,14,11,03:39.0,223.9,Running 
+515,9,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,107,09:05:32,11,13,03:43.1,219.9,Running 
+516,9,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,107,09:05:36,11,11,03:37.3,225.7,Running 
+517,9,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,107,09:05:39,13,54,03:39.0,224,Running 
+518,9,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,107,09:05:56,11,10,03:37.3,225.7,Running 
+519,9,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,106,09:04:59,13,10,03:37.4,225.6,Running 
+520,9,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,106,09:05:37,11,11,03:37.7,225.3,Running 
+521,9,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,106,09:05:40,12,53,03:39.3,223.6,Running 
+522,9,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,105,09:05:01,11,9,03:38.0,225,Running 
+523,9,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,105,09:05:31,12,10,03:37.7,225.3,Running 
+524,9,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,104,09:05:00,11,10,03:38.1,225,Running 
+525,9,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,104,09:05:10,8,10,03:54.9,208.9,Running 
+526,9,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,104,09:05:15,10,8,03:52.1,211.3,Running 
+527,9,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,104,09:05:29,9,11,03:51.4,211.9,Running 
+528,9,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,104,09:06:33,9,16,03:53.1,210.5,Running 
+529,9,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,104,09:06:34,9,8,03:52.5,211,Running 
+530,9,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,104,09:06:36,10,29,03:52.8,210.7,Running 
+531,9,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,103,09:05:19,13,12,03:32.9,230.4,Running 
+532,9,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,103,09:05:26,9,26,03:55.4,208.3,Running 
+533,9,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,103,09:05:35,11,63,03:51.2,212.2,Running 
+534,9,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,103,09:05:58,10,10,03:52.2,211.2,Running 
+535,9,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,103,09:06:15,8,8,03:52.2,211.2,Running 
+536,9,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,103,09:06:33,9,8,03:51.3,212.1,Running 
+537,9,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,102,09:05:42,13,11,03:37.8,225.2,Running 
+538,9,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,102,09:06:35,9,11,03:54.7,209,Running 
+539,9,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,101,09:06:31,12,89,03:55.1,208.7,Running 
+540,9,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,101,09:06:34,10,10,03:54.9,208.9,Running 
+541,9,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,100,09:06:32,10,9,03:55.1,208.6,Running 
+542,9,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,98,08:08:13,12,11,03:39.0,224,Running 
+543,9,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,98,09:05:40,12,10,03:37.8,225.2,Running 
+544,9,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR ,M,95,09:05:13,10,54,03:30.6,232.9,Running 
+545,9,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,94,09:05:06,11,57,03:39.4,223.6,Running 
+546,9,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,94,09:05:15,11,13,03:38.4,224.6,Running 
+547,9,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:45,10,12,03:30.0,233.6,Retired
+548,9,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+549,9,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+550,9,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+551,9,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+552,9,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+553,9,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+554,9,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+555,9,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+556,9,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+557,9,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+558,9,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+559,10,0,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,123,10:00:08,11,10,03:29.7,234,Running 
+560,10,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,123,10:00:09,10,56,03:29.9,233.7,Running 
+561,10,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,123,10:01:29,12,10,03:29.7,234,Running 
+562,10,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,123,10:01:32,12,12,03:29.1,234.6,Running 
+563,10,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,122,10:01:03,12,12,03:28.3,235.5,Running 
+564,10,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,122,10:01:12,11,9,03:30.0,233.6,Running 
+565,10,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,121,09:50:45,13,31,03:29.0,234.7,Running 
+566,10,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,121,10:01:29,12,10,03:30.1,233.5,Running 
+567,10,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,120,10:00:14,12,29,03:30.1,233.5,Running 
+568,10,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,120,10:02:13,12,11,03:30.6,233,Running 
+569,10,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,119,10:00:02,13,56,03:29.0,234.7,Running 
+570,10,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,118,10:01:34,13,9,03:30.1,233.5,Running 
+571,10,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,118,10:01:38,15,66,03:38.6,224.4,Running 
+572,10,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,118,10:02:44,14,54,03:39.0,224,Running 
+573,10,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,118,10:02:48,13,11,03:36.4,226.7,Running 
+574,10,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,118,10:03:06,15,11,03:39.0,223.9,Running 
+575,10,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,118,10:03:14,12,10,03:37.3,225.7,Running 
+576,10,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,118,10:03:21,12,10,03:38.1,225,Running 
+577,10,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,118,10:03:34,11,11,03:37.1,225.9,Running 
+578,10,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,117,10:01:46,15,10,03:37.4,225.6,Running 
+579,10,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,117,10:01:47,13,53,03:39.3,223.6,Running 
+580,10,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,117,10:01:55,11,11,03:37.3,225.7,Running 
+581,10,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,117,10:02:40,12,11,03:37.7,225.3,Running 
+582,10,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,116,10:01:29,12,9,03:38.0,225,Running 
+583,10,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,116,10:02:05,12,112,03:41.3,221.7,Running 
+584,10,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,116,10:02:39,13,10,03:37.7,225.3,Running 
+585,10,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,115,10:02:47,13,10,03:38.1,225,Running 
+586,10,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,115,10:03:10,10,11,03:51.4,211.9,Running 
+587,10,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,114,09:59:43,10,8,03:52.1,211.3,Running 
+588,10,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,114,10:00:42,14,12,03:32.9,230.4,Running 
+589,10,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,114,10:01:03,9,10,03:54.9,208.9,Running 
+590,10,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,114,10:01:08,10,16,03:53.1,210.5,Running 
+591,10,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,114,10:01:10,12,29,03:52.8,210.7,Running 
+592,10,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,114,10:01:24,10,8,03:52.5,211,Running 
+593,10,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,114,10:02:50,11,63,03:51.2,212.2,Running 
+594,10,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,114,10:02:59,10,10,03:52.2,211.2,Running 
+595,10,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,114,10:03:18,10,8,03:51.3,212.1,Running 
+596,10,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Running 
+597,10,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,113,10:00:05,9,26,03:55.4,208.3,Running 
+598,10,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,113,10:00:59,9,8,03:52.2,211.2,Running 
+599,10,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,113,10:01:39,14,11,03:37.8,225.2,Running 
+600,10,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,112,10:01:58,10,11,03:54.7,209,Running 
+601,10,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,112,10:03:39,10,10,03:54.9,208.9,Running 
+602,10,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,111,10:01:22,13,89,03:55.1,208.7,Running 
+603,10,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,110,10:02:27,11,9,03:55.1,208.6,Running 
+604,10,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,109,10:03:12,13,10,03:37.8,225.2,Running 
+605,10,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR ,M,106,10:02:15,11,54,03:30.6,232.9,Running 
+606,10,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,105,10:03:28,12,13,03:38.4,224.6,Running 
+607,10,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,104,10:00:52,13,57,03:39.4,223.6,Running 
+608,10,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,103,10:03:38,12,11,03:39.0,224,Running 
+609,10,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+610,10,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+611,10,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+612,10,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+613,10,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+614,10,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+615,10,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+616,10,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+617,10,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+618,10,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+619,10,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+620,10,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+621,11,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,139,11:02:39,13,10,03:29.7,234,Running 
+622,11,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,139,11:02:40,13,12,03:29.1,234.6,Running 
+623,11,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,139,11:02:58,13,10,03:29.7,234,Running 
+624,11,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,139,11:03:12,12,56,03:29.9,233.7,Running 
+625,11,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,139,11:06:44,12,130,03:29.7,234,Running 
+626,11,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,138,11:03:13,13,12,03:28.3,235.5,Running 
+627,11,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,137,11:02:57,13,10,03:30.1,233.5,Running 
+628,11,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,136,11:03:55,13,11,03:30.6,233,Running 
+629,11,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,136,11:04:05,14,29,03:30.1,233.5,Running 
+630,11,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,134,11:02:56,14,9,03:30.1,233.5,Running 
+631,11,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,133,11:02:29,14,31,03:29.0,234.7,Running 
+632,11,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,133,11:03:06,16,66,03:38.6,224.4,Running 
+633,11,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,133,11:03:07,16,11,03:39.0,223.9,Running 
+634,11,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,133,11:03:28,13,10,03:38.1,225,Running 
+635,11,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,133,11:03:32,13,10,03:37.3,225.7,Running 
+636,11,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,133,11:03:44,14,11,03:36.4,226.7,Running 
+637,11,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,133,11:04:19,12,11,03:37.1,225.9,Running 
+638,11,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,132,11:02:54,13,11,03:37.7,225.3,Running 
+639,11,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,132,11:03:14,14,53,03:39.3,223.6,Running 
+640,11,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,132,11:03:28,16,10,03:37.4,225.6,Running 
+641,11,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,132,11:04:09,13,11,03:37.3,225.7,Running 
+642,11,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,131,10:46:38,14,56,03:29.0,234.7,Running 
+643,11,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,131,11:02:13,14,130,03:40.2,222.8,Running 
+644,11,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,131,11:03:03,13,9,03:38.0,225,Running 
+645,11,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,131,11:03:11,14,10,03:37.7,225.3,Running 
+646,11,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,130,11:04:04,15,125,03:32.6,230.7,Running 
+647,11,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,130,11:04:24,15,10,03:38.1,225,Running 
+648,11,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,129,11:03:21,10,11,03:51.4,211.9,Running 
+649,11,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,129,11:04:02,12,8,03:52.1,211.3,Running 
+650,11,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,129,11:05:36,11,8,03:52.5,211,Running 
+651,11,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,129,11:05:50,10,10,03:54.9,208.9,Running 
+652,11,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,129,11:06:44,11,16,03:53.1,210.5,Running 
+653,11,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,129,11:06:50,13,29,03:52.8,210.7,Running 
+654,11,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,128,11:02:07,11,10,03:52.2,211.2,Running 
+655,11,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,128,11:02:20,15,11,03:37.8,225.2,Running 
+656,11,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,128,11:02:29,12,120,03:50.9,212.4,Running 
+657,11,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,128,11:03:59,10,8,03:52.2,211.2,Running 
+658,11,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,128,11:05:35,11,8,03:51.3,212.1,Running 
+659,11,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,128,11:06:05,11,26,03:55.4,208.3,Running 
+660,11,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,126,11:02:48,11,11,03:54.7,209,Running 
+661,11,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,126,11:03:45,15,54,03:39.0,224,Running 
+662,11,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,125,11:02:01,12,114,03:54.8,208.9,Running 
+663,11,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,124,11:02:59,12,9,03:55.1,208.6,Running 
+664,11,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,124,11:03:30,14,10,03:37.8,225.2,Running 
+665,11,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR ,M,122,11:03:54,12,54,03:30.6,232.9,Running 
+666,11,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,120,11:03:33,13,13,03:38.4,224.6,Running 
+667,11,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,118,11:06:42,13,11,03:39.0,224,Running 
+668,11,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,116,10:54:45,14,57,03:39.4,223.6,Running 
+669,11,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+670,11,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+671,11,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+672,11,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+673,11,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+674,11,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+675,11,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+676,11,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+677,11,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+678,11,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+679,11,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+680,11,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+681,11,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+682,11,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+683,12,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,139,12:01:47,13,10,03:29.7,234,Running 
+684,12,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,139,12:01:50,13,12,03:29.1,234.6,Running 
+685,12,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,139,12:02:46,13,10,03:29.7,234,Running 
+686,12,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,139,12:01:53,12,56,03:29.9,233.7,Running 
+687,12,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,139,12:02:28,12,130,03:29.7,234,Running 
+688,12,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,138,12:02:20,13,12,03:28.3,235.5,Running 
+689,12,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,137,12:03:10,13,10,03:30.1,233.5,Running 
+690,12,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,136,12:04:16,13,11,03:30.6,233,Running 
+691,12,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,136,12:02:24,14,29,03:30.1,233.5,Running 
+692,12,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,134,12:02:24,14,9,03:30.1,233.5,Running 
+693,12,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,133,12:04:32,14,31,03:29.0,234.7,Running 
+694,12,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,133,12:05:04,16,66,03:38.6,224.4,Running 
+695,12,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,133,12:01:20,16,11,03:39.0,223.9,Running 
+696,12,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,133,12:01:24,13,10,03:38.1,225,Running 
+697,12,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,133,12:01:40,13,10,03:37.3,225.7,Running 
+698,12,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,133,12:03:17,14,11,03:36.4,226.7,Running 
+699,12,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,133,12:05:13,12,11,03:37.1,225.9,Running 
+700,12,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,132,12:05:18,13,11,03:37.7,225.3,Running 
+701,12,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,132,12:01:53,14,53,03:39.3,223.6,Running 
+702,12,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,132,12:02:10,16,10,03:37.4,225.6,Running 
+703,12,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,132,12:02:23,13,11,03:37.3,225.7,Running 
+704,12,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,131,12:05:17,14,56,03:29.0,234.7,Running 
+705,12,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,131,12:02:38,14,130,03:40.2,222.8,Running 
+706,12,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,131,12:02:45,13,9,03:38.0,225,Running 
+707,12,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,131,11:59:31,14,10,03:37.7,225.3,Running 
+708,12,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,130,12:03:42,15,125,03:32.6,230.7,Running 
+709,12,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,130,12:04:08,15,10,03:38.1,225,Running 
+710,12,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,129,12:02:46,10,11,03:51.4,211.9,Running 
+711,12,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,129,12:02:54,12,8,03:52.1,211.3,Running 
+712,12,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,129,12:03:00,11,8,03:52.5,211,Running 
+713,12,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,129,12:03:35,10,10,03:54.9,208.9,Running 
+714,12,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,129,12:03:47,11,16,03:53.1,210.5,Running 
+715,12,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,129,12:04:11,13,29,03:52.8,210.7,Running 
+716,12,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,128,12:04:25,11,10,03:52.2,211.2,Running 
+717,12,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,128,12:00:09,15,11,03:37.8,225.2,Running 
+718,12,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,128,12:02:06,12,120,03:50.9,212.4,Running 
+719,12,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,128,12:02:26,10,8,03:52.2,211.2,Running 
+720,12,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,128,12:03:46,11,8,03:51.3,212.1,Running 
+721,12,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,128,12:05:05,11,26,03:55.4,208.3,Running 
+722,12,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,126,12:03:47,11,11,03:54.7,209,Running 
+723,12,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,126,12:00:31,15,54,03:39.0,224,Running 
+724,12,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,125,12:05:16,12,114,03:54.8,208.9,Running 
+725,12,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,124,12:02:12,12,9,03:55.1,208.6,Running 
+726,12,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,124,12:04:47,14,10,03:37.8,225.2,Running 
+727,12,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR ,M,122,12:03:25,12,54,03:30.6,232.9,Running 
+728,12,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,120,12:02:57,13,13,03:38.4,224.6,Running 
+729,12,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,118,12:03:14,13,11,03:39.0,224,Running 
+730,12,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,116,11:07:56,14,57,03:39.4,223.6,Running 
+731,12,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+732,12,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+733,12,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+734,12,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+735,12,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+736,12,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+737,12,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+738,12,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+739,12,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+740,12,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+741,12,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+742,12,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+743,12,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+744,12,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+745,13,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,171,13:02:18,16,10,03:29.7,234,Running 
+746,13,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,171,13:02:26,16,12,03:29.1,234.6,Running 
+747,13,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,171,13:02:27,15,56,03:29.9,233.7,Running 
+748,13,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,170,13:02:48,15,130,03:29.7,234,Running 
+749,13,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,170,13:03:30,16,12,03:28.3,235.5,Running 
+750,13,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,169,13:03:38,16,10,03:30.1,233.5,Running 
+751,13,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,168,13:02:47,16,29,03:30.1,233.5,Running 
+752,13,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,168,13:03:40,16,11,03:30.6,233,Running 
+753,13,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,166,13:03:15,17,9,03:30.1,233.5,Running 
+754,13,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,166,13:04:49,16,31,03:29.0,234.7,Running 
+755,13,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,164,13:04:10,19,66,03:38.6,224.4,Running 
+756,13,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,164,13:04:13,16,10,03:38.1,225,Running 
+757,13,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,164,13:04:15,19,11,03:39.0,223.9,Running 
+758,13,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,164,13:04:25,17,11,03:36.4,226.7,Running 
+759,13,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,164,13:05:39,15,10,03:29.7,234,Running 
+760,13,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,163,13:02:36,16,11,03:37.1,225.9,Running 
+761,13,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,163,13:04:05,19,10,03:37.4,225.6,Running 
+762,13,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,163,13:04:19,17,53,03:39.3,223.6,Running 
+763,13,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,163,13:04:56,16,11,03:37.3,225.7,Running 
+764,13,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,163,13:05:25,16,11,03:37.7,225.3,Running 
+765,13,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,162,13:03:05,16,149,03:39.8,223.2,Running 
+766,13,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,160,13:02:24,16,9,03:38.0,225,Running 
+767,13,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,160,13:02:50,18,10,03:38.1,225,Running 
+768,13,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,159,13:03:03,18,11,03:37.8,225.2,Running 
+769,13,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,159,13:03:04,17,10,03:37.7,225.3,Running 
+770,13,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Running 
+771,13,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,158,13:04:02,13,8,03:52.5,211,Running 
+772,13,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,158,13:04:05,14,8,03:52.1,211.3,Running 
+773,13,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,158,13:04:43,12,10,03:54.9,208.9,Running 
+774,13,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,157,13:01:56,15,29,03:52.8,210.7,Running 
+775,13,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,157,13:02:13,12,11,03:51.4,211.9,Running 
+776,13,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,157,13:02:25,15,120,03:50.9,212.4,Running 
+777,13,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,157,13:02:30,12,147,03:51.8,211.6,Running 
+778,13,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,157,13:03:19,13,10,03:52.2,211.2,Running 
+779,13,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,157,13:03:58,16,56,03:29.0,234.7,Running 
+780,13,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,157,13:04:22,13,8,03:51.3,212.1,Running 
+781,13,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,157,13:04:58,13,16,03:53.1,210.5,Running 
+782,13,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,156,13:01:59,13,138,03:54.5,209.2,Running 
+783,13,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,156,13:03:16,20,54,03:39.0,224,Running 
+784,13,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,155,13:02:38,13,11,03:54.7,209,Running 
+785,13,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,155,13:04:22,17,10,03:37.8,225.2,Running 
+786,13,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,154,13:03:56,15,54,03:30.6,232.9,Running 
+787,13,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,153,13:02:11,14,114,03:54.8,208.9,Running 
+788,13,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,153,13:02:14,14,149,03:54.7,209,Running 
+789,13,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,151,13:05:23,16,13,03:38.4,224.6,Running 
+790,13,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,150,12:43:36,18,125,03:32.6,230.7,Running 
+791,13,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,147,13:02:27,16,11,03:39.0,224,Running 
+792,13,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Running 
+793,13,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+794,13,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+795,13,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+796,13,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+797,13,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+798,13,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+799,13,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+800,13,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+801,13,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+802,13,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+803,13,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+804,13,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+805,13,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+806,13,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+807,14,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,187,14:01:13,17,10,03:29.7,234,Running 
+808,14,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,187,14:01:58,17,12,03:29.1,234.6,Running 
+809,14,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,187,14:04:39,16,56,03:29.9,233.7,Running 
+810,14,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,186,14:04:29,16,130,03:29.7,234,Running 
+811,14,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,186,14:04:33,17,12,03:28.3,235.5,Running 
+812,14,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,185,14:04:50,17,10,03:30.1,233.5,Running 
+813,14,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,184,14:04:56,18,11,03:30.6,233,Running 
+814,14,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,184,14:05:02,18,29,03:30.1,233.5,Running 
+815,14,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,182,14:04:39,18,9,03:30.1,233.5,Running 
+816,14,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,181,14:00:57,18,31,03:29.0,234.7,Running 
+817,14,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,179,14:03:07,18,11,03:36.4,226.7,Running 
+818,14,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,179,14:03:36,20,66,03:38.6,224.4,Running 
+819,14,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,179,14:04:21,17,10,03:29.7,234,Running 
+820,14,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,179,14:04:38,17,10,03:38.1,225,Running 
+821,14,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,179,14:04:55,21,11,03:39.0,223.9,Running 
+822,14,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,179,14:05:06,17,11,03:37.1,225.9,Running 
+823,14,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,178,14:02:50,20,10,03:37.4,225.6,Running 
+824,14,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,178,14:04:38,18,53,03:39.3,223.6,Running 
+825,14,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,178,14:04:52,17,11,03:37.3,225.7,Running 
+826,14,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,178,14:05:24,17,11,03:37.7,225.3,Running 
+827,14,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,177,14:02:48,18,149,03:39.8,223.2,Running 
+828,14,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,176,14:05:25,17,9,03:38.0,225,Running 
+829,14,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,175,14:01:30,19,10,03:38.1,225,Running 
+830,14,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,175,14:05:36,18,10,03:37.7,225.3,Running 
+831,14,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,174,14:01:22,19,11,03:37.8,225.2,Running 
+832,14,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,173,14:05:01,17,56,03:29.0,234.7,Running 
+833,14,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,172,14:01:45,14,8,03:52.5,211,Running 
+834,14,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,172,14:04:24,13,10,03:54.9,208.9,Running 
+835,14,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,172,14:04:28,16,120,03:50.9,212.4,Running 
+836,14,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,172,14:05:05,14,8,03:52.1,211.3,Running 
+837,14,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,172,14:05:44,16,29,03:52.8,210.7,Running 
+838,14,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,172,14:05:46,13,11,03:51.4,211.9,Running 
+839,14,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,172,14:05:48,15,10,03:52.2,211.2,Running 
+840,14,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,171,14:01:27,21,54,03:39.0,224,Running 
+841,14,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,171,14:01:45,13,8,03:51.3,212.1,Running 
+842,14,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,171,14:03:24,14,16,03:53.1,210.5,Running 
+843,14,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,171,14:05:37,14,138,03:54.5,209.2,Running 
+844,14,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Running 
+845,14,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,170,14:02:51,18,10,03:37.8,225.2,Running 
+846,14,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,170,14:04:54,16,54,03:30.6,232.9,Running 
+847,14,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,170,14:05:52,14,11,03:54.7,209,Running 
+848,14,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,167,14:01:03,15,162,03:54.6,209.1,Running 
+849,14,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,166,14:05:13,17,13,03:38.4,224.6,Running 
+850,14,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Running 
+851,14,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,163,14:05:16,18,151,03:38.6,224.4,Running 
+852,14,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Running 
+853,14,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,150,12:43:36,18,125,03:32.6,230.7,Running 
+854,14,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Running 
+855,14,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+856,14,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+857,14,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+858,14,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+859,14,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+860,14,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+861,14,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+862,14,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+863,14,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+864,14,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+865,14,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+866,14,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+867,14,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+868,14,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+869,15,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,200,15:00:58,18,10,03:29.7,234,Running 
+870,15,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,200,15:01:09,18,12,03:29.1,234.6,Running 
+871,15,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,200,15:02:56,17,56,03:29.9,233.7,Running 
+872,15,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,199,15:02:04,17,199,03:29.7,234,Running 
+873,15,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,199,15:02:51,18,12,03:28.3,235.5,Running 
+874,15,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,198,15:03:32,18,10,03:30.1,233.5,Running 
+875,15,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,197,15:03:52,19,11,03:30.6,233,Running 
+876,15,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,197,15:04:00,19,29,03:30.1,233.5,Running 
+877,15,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,195,15:02:51,19,9,03:30.1,233.5,Running 
+878,15,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,194,15:00:51,19,31,03:29.0,234.7,Running 
+879,15,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,192,15:02:52,18,10,03:29.7,234,Running 
+880,15,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,192,15:03:30,21,66,03:38.6,224.4,Running 
+881,15,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,192,15:03:34,19,11,03:36.4,226.7,Running 
+882,15,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,191,15:01:30,18,11,03:37.1,225.9,Running 
+883,15,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,191,15:01:33,22,11,03:39.0,223.9,Running 
+884,15,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,191,15:01:46,19,10,03:38.1,225,Running 
+885,15,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,191,15:03:23,21,10,03:37.4,225.6,Running 
+886,15,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,190,15:01:10,19,53,03:39.3,223.6,Running 
+887,15,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,190,15:01:33,18,11,03:37.3,225.7,Running 
+888,15,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,190,15:02:02,19,11,03:37.7,225.3,Running 
+889,15,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,188,15:01:50,18,9,03:38.0,225,Running 
+890,15,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,188,15:02:31,20,10,03:38.1,225,Running 
+891,15,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,187,15:01:45,19,10,03:37.7,225.3,Running 
+892,15,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,187,15:02:11,20,11,03:37.8,225.2,Running 
+893,15,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,186,15:03:47,18,56,03:29.0,234.7,Running 
+894,15,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,184,15:01:22,15,8,03:52.5,211,Running 
+895,15,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,184,15:03:09,17,120,03:50.9,212.4,Running 
+896,15,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,184,15:03:10,15,8,03:52.1,211.3,Running 
+897,15,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,184,15:03:11,15,184,03:51.7,211.7,Running 
+898,15,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,184,15:03:27,16,29,03:52.8,210.7,Running 
+899,15,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,184,15:03:39,14,11,03:51.4,211.9,Running 
+900,15,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,184,15:03:59,23,54,03:39.0,224,Running 
+901,15,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,184,15:04:05,14,10,03:54.9,208.9,Running 
+902,15,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Running 
+903,15,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,183,15:00:44,14,8,03:51.3,212.1,Running 
+904,15,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,183,15:02:46,15,16,03:53.1,210.5,Running 
+905,15,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,183,15:03:16,19,10,03:37.8,225.2,Running 
+906,15,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,183,15:03:46,17,54,03:30.6,232.9,Running 
+907,15,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,183,15:04:22,15,138,03:54.5,209.2,Running 
+908,15,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,181,15:01:20,14,11,03:54.7,209,Running 
+909,15,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,180,15:04:25,16,180,03:54.5,209.2,Running 
+910,15,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,178,15:02:54,19,13,03:38.4,224.6,Running 
+911,15,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,175,15:03:18,19,151,03:38.6,224.4,Running 
+912,15,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Running 
+913,15,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Running 
+914,15,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,163,15:02:44,19,125,03:32.6,230.7,Running 
+915,15,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Running 
+916,15,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Running 
+917,15,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+918,15,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+919,15,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+920,15,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+921,15,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+922,15,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+923,15,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+924,15,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+925,15,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+926,15,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+927,15,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+928,15,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+929,15,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+930,15,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+931,16,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,217,16:02:59,19,12,03:29.1,234.6,Running 
+932,16,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,217,16:03:12,19,10,03:29.7,234,Running 
+933,16,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,217,16:05:20,18,56,03:29.9,233.7,Running 
+934,16,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,216,16:05:04,20,12,03:28.3,235.5,Running 
+935,16,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,216,16:05:44,18,214,03:28.9,234.8,Running 
+936,16,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,215,16:05:45,19,213,03:30.0,233.6,Running 
+937,16,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,214,16:06:26,20,29,03:30.1,233.5,Running 
+938,16,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,212,16:03:24,21,11,03:30.6,233,Running 
+939,16,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,212,16:04:57,21,211,03:28.9,234.8,Running 
+940,16,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,211,16:04:18,20,211,03:28.8,235,Running 
+941,16,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,209,16:05:23,19,10,03:29.7,234,Running 
+942,16,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,208,16:05:37,23,66,03:38.6,224.4,Running 
+943,16,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,208,16:05:44,21,11,03:36.4,226.7,Running 
+944,16,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,207,16:03:36,24,193,03:39.0,224,Running 
+945,16,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,207,16:04:02,20,11,03:37.1,225.9,Running 
+946,16,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,207,16:04:10,20,10,03:38.1,225,Running 
+947,16,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,207,16:06:09,23,10,03:37.4,225.6,Running 
+948,16,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,207,16:06:23,21,203,03:36.8,226.2,Running 
+949,16,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,206,16:03:07,19,11,03:37.3,225.7,Running 
+950,16,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,206,16:04:48,20,11,03:37.7,225.3,Running 
+951,16,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,204,16:04:50,20,9,03:38.0,225,Running 
+952,16,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,204,16:05:27,22,10,03:38.1,225,Running 
+953,16,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,203,16:04:11,21,10,03:37.7,225.3,Running 
+954,16,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,203,16:04:40,22,11,03:37.8,225.2,Running 
+955,16,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,203,16:05:35,19,56,03:29.0,234.7,Running 
+956,16,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,200,16:05:47,18,184,03:29.8,233.8,Running 
+957,16,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,199,16:03:42,24,54,03:39.0,224,Running 
+958,16,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,199,16:04:00,16,8,03:52.5,211,Running 
+959,16,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,199,16:04:18,18,120,03:50.9,212.4,Running 
+960,16,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,199,16:04:28,15,11,03:51.4,211.9,Running 
+961,16,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,199,16:04:57,15,8,03:51.3,212.1,Running 
+962,16,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,199,16:05:04,16,8,03:52.1,211.3,Running 
+963,16,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,199,16:05:06,18,29,03:52.8,210.7,Running 
+964,16,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,199,16:05:12,15,10,03:54.9,208.9,Running 
+965,16,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,199,16:05:26,21,10,03:37.8,225.2,Running 
+966,16,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,199,16:05:29,16,184,03:51.7,211.7,Running 
+967,16,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,198,16:03:29,16,16,03:53.1,210.5,Running 
+968,16,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,198,16:05:50,16,138,03:54.5,209.2,Running 
+969,16,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,196,16:03:22,15,11,03:54.7,209,Running 
+970,16,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,194,16:04:16,17,181,03:53.2,210.3,Running 
+971,16,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,193,16:03:24,20,13,03:38.4,224.6,Running 
+972,16,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,191,16:04:07,20,151,03:38.6,224.4,Running 
+973,16,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Retired
+974,16,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Retired
+975,16,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,165,15:11:45,19,125,03:32.6,230.7,Retired
+976,16,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Retired
+977,16,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Retired
+978,16,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+979,16,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Retired
+980,16,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+981,16,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+982,16,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+983,16,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+984,16,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+985,16,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+986,16,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+987,16,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+988,16,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+989,16,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+990,16,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+991,16,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+992,16,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+993,17,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,233,17:02:46,21,233,03:28.6,235.2,Running 
+994,17,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,233,17:03:18,21,10,03:29.7,234,Running 
+995,17,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,233,17:05:21,20,56,03:29.9,233.7,Running 
+996,17,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,232,17:04:49,21,12,03:28.3,235.5,Running 
+997,17,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,231,17:05:23,21,213,03:30.0,233.6,Running 
+998,17,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,229,17:06:13,22,11,03:30.6,233,Running 
+999,17,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,228,17:05:06,22,211,03:28.9,234.8,Running 
+1000,17,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,227,17:02:48,21,227,03:28.1,235.7,Running 
+1001,17,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,227,17:05:02,22,29,03:30.1,233.5,Running 
+1002,17,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,225,17:04:28,20,10,03:29.7,234,Running 
+1003,17,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,223,17:03:28,24,66,03:38.6,224.4,Running 
+1004,17,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,223,17:03:51,22,11,03:36.4,226.7,Running 
+1005,17,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,223,17:04:53,25,193,03:39.0,224,Running 
+1006,17,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,223,17:05:17,21,10,03:38.1,225,Running 
+1007,17,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,223,17:06:13,21,11,03:37.1,225.9,Running 
+1008,17,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,222,17:03:20,24,10,03:37.4,225.6,Running 
+1009,17,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,222,17:04:00,22,203,03:36.8,226.2,Running 
+1010,17,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,222,17:05:59,21,11,03:37.7,225.3,Running 
+1011,17,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,221,17:02:52,21,11,03:37.3,225.7,Running 
+1012,17,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,220,17:04:22,19,214,03:28.9,234.8,Running 
+1013,17,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,219,17:02:45,21,9,03:38.0,225,Running 
+1014,17,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,219,17:04:00,23,10,03:38.1,225,Running 
+1015,17,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,219,17:05:23,23,209,03:37.0,226.1,Running 
+1016,17,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,219,17:05:35,23,10,03:37.7,225.3,Running 
+1017,17,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,219,17:05:52,21,56,03:29.0,234.7,Running 
+1018,17,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,216,17:05:26,20,184,03:29.8,233.8,Running 
+1019,17,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,215,17:05:30,26,214,03:38.3,224.8,Running 
+1020,17,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,214,17:03:22,22,10,03:37.8,225.2,Running 
+1021,17,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,214,17:05:15,16,11,03:51.4,211.9,Running 
+1022,17,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,214,17:05:34,19,210,03:50.7,212.6,Running 
+1023,17,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,214,17:05:46,16,8,03:51.3,212.1,Running 
+1024,17,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,214,17:06:11,16,213,03:53.8,209.8,Running 
+1025,17,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,213,17:02:13,19,206,03:52.4,211.1,Running 
+1026,17,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,213,17:03:05,17,8,03:52.1,211.3,Running 
+1027,17,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,213,17:03:51,18,8,03:52.5,211,Running 
+1028,17,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,213,17:04:31,17,184,03:51.7,211.7,Running 
+1029,17,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,213,17:06:08,17,16,03:53.1,210.5,Running 
+1030,17,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,212,17:04:28,17,138,03:54.5,209.2,Running 
+1031,17,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,211,17:06:08,16,11,03:54.7,209,Running 
+1032,17,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,209,17:05:37,21,204,03:37.8,225.2,Running 
+1033,17,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,208,17:05:07,18,181,03:53.2,210.3,Running 
+1034,17,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,206,17:02:35,22,151,03:38.6,224.4,Running 
+1035,17,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Retired
+1036,17,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Retired
+1037,17,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,165,15:11:45,19,125,03:32.6,230.7,Retired
+1038,17,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Retired
+1039,17,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Retired
+1040,17,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+1041,17,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Retired
+1042,17,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+1043,17,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+1044,17,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+1045,17,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+1046,17,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+1047,17,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+1048,17,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+1049,17,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+1050,17,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+1051,17,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+1052,17,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+1053,17,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+1054,17,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+1055,18,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,248,18:01:26,22,240,03:28.5,235.2,Running 
+1056,18,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,248,18:02:26,22,245,03:29.3,234.3,Running 
+1057,18,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,248,18:04:35,21,56,03:29.9,233.7,Running 
+1058,18,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,247,18:04:01,22,12,03:28.3,235.5,Running 
+1059,18,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,246,18:04:53,22,239,03:29.9,233.6,Running 
+1060,18,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,243,18:04:07,23,236,03:28.7,235.1,Running 
+1061,18,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,242,18:01:32,23,239,03:27.4,236.5,Running 
+1062,18,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,242,18:04:42,23,29,03:30.1,233.5,Running 
+1063,18,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,241,18:01:37,24,11,03:30.6,233,Running 
+1064,18,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,238,18:01:33,22,10,03:29.7,234,Running 
+1065,18,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,238,18:04:54,25,224,03:38.4,224.6,Running 
+1066,18,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,237,18:01:59,23,11,03:36.4,226.7,Running 
+1067,18,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,237,18:03:18,27,236,03:38.2,224.8,Running 
+1068,18,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,237,18:04:33,23,10,03:38.1,225,Running 
+1069,18,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,237,18:04:35,25,10,03:37.4,225.6,Running 
+1070,18,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,236,18:01:37,23,203,03:36.8,226.2,Running 
+1071,18,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,236,18:01:42,23,11,03:37.1,225.9,Running 
+1072,18,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,235,18:01:32,23,11,03:37.7,225.3,Running 
+1073,18,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,235,18:01:56,22,11,03:37.3,225.7,Running 
+1074,18,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,235,18:03:14,20,227,03:28.3,235.5,Running 
+1075,18,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,234,18:04:43,22,228,03:28.1,235.7,Running 
+1076,18,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,233,18:02:32,24,10,03:38.1,225,Running 
+1077,18,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,233,18:02:51,25,209,03:37.0,226.1,Running 
+1078,18,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,233,18:02:58,23,9,03:38.0,225,Running 
+1079,18,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,233,18:04:23,25,227,03:37.5,225.5,Running 
+1080,18,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR H,M,231,18:04:38,21,224,03:28.6,235.2,Running 
+1081,18,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,228,18:01:41,24,10,03:37.8,225.2,Running 
+1082,18,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,228,18:01:46,27,223,03:37.1,226,Running 
+1083,18,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,227,18:02:24,20,210,03:50.7,212.6,Running 
+1084,18,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,227,18:03:00,19,206,03:52.4,211.1,Running 
+1085,18,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,227,18:03:01,18,8,03:51.3,212.1,Running 
+1086,18,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,227,18:03:24,18,11,03:51.4,211.9,Running 
+1087,18,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,227,18:03:27,17,221,03:53.6,210,Running 
+1088,18,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,227,18:04:12,18,8,03:52.1,211.3,Running 
+1089,18,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,226,18:02:42,19,8,03:52.5,211,Running 
+1090,18,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,226,18:02:52,19,184,03:51.7,211.7,Running 
+1091,18,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,225,18:01:54,18,16,03:53.1,210.5,Running 
+1092,18,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,225,18:02:20,18,225,03:53.4,210.1,Running 
+1093,18,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,223,18:01:25,17,11,03:54.7,209,Running 
+1094,18,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,223,18:03:20,24,204,03:37.8,225.2,Running 
+1095,18,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,220,18:01:43,23,151,03:38.6,224.4,Running 
+1096,18,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,220,18:02:05,19,181,03:53.2,210.3,Running 
+1097,18,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Retired
+1098,18,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Retired
+1099,18,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,165,15:11:45,19,125,03:32.6,230.7,Retired
+1100,18,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Retired
+1101,18,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Retired
+1102,18,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+1103,18,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Retired
+1104,18,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+1105,18,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+1106,18,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+1107,18,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+1108,18,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+1109,18,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+1110,18,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+1111,18,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+1112,18,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+1113,18,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+1114,18,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+1115,18,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+1116,18,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+1117,19,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,262,19:01:39,23,262,03:28.2,235.6,Running 
+1118,19,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,262,19:01:44,23,245,03:29.3,234.3,Running 
+1119,19,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,262,19:04:51,22,262,03:28.8,235,Running 
+1120,19,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,261,19:04:04,23,12,03:28.3,235.5,Running 
+1121,19,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,260,19:04:56,23,260,03:29.8,233.8,Running 
+1122,19,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,257,19:04:11,24,236,03:28.7,235.1,Running 
+1123,19,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,256,19:01:28,25,239,03:27.4,236.5,Running 
+1124,19,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,255,19:01:40,25,11,03:30.6,233,Running 
+1125,19,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,255,19:01:47,24,29,03:30.1,233.5,Running 
+1126,19,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,253,19:05:00,23,240,03:29.4,234.3,Running 
+1127,19,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,251,19:02:11,26,239,03:38.2,224.8,Running 
+1128,19,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,251,19:03:50,24,11,03:36.4,226.7,Running 
+1129,19,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,250,19:02:04,28,236,03:38.2,224.8,Running 
+1130,19,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,250,19:02:10,24,10,03:38.1,225,Running 
+1131,19,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,250,19:02:12,24,11,03:37.1,225.9,Running 
+1132,19,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,250,19:03:23,27,10,03:37.4,225.6,Running 
+1133,19,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,250,19:03:23,25,249,03:36.4,226.7,Running 
+1134,19,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,249,19:02:27,23,238,03:37.3,225.7,Running 
+1135,19,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,249,19:02:54,24,11,03:37.7,225.3,Running 
+1136,19,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,247,19:03:09,21,227,03:28.3,235.5,Running 
+1137,19,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,246,19:01:27,26,10,03:38.1,225,Running 
+1138,19,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,246,19:02:03,26,227,03:37.5,225.5,Running 
+1139,19,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,246,19:02:26,26,209,03:37.0,226.1,Running 
+1140,19,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,246,19:02:39,25,9,03:38.0,225,Running 
+1141,19,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR H,M,245,19:04:46,22,245,03:28.3,235.5,Running 
+1142,19,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,241,19:02:23,28,223,03:37.1,226,Running 
+1143,19,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,240,19:02:43,17,221,03:53.6,210,Running 
+1144,19,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,240,19:03:05,20,206,03:52.4,211.1,Running 
+1145,19,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,240,19:03:30,19,8,03:51.3,212.1,Running 
+1146,19,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,240,19:04:36,19,11,03:51.4,211.9,Running 
+1147,19,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,239,19:01:32,19,8,03:52.1,211.3,Running 
+1148,19,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,239,19:02:17,19,184,03:51.7,211.7,Running 
+1149,19,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,239,19:02:55,20,8,03:52.5,211,Running 
+1150,19,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,238,18:23:49,23,228,03:28.1,235.7,Running 
+1151,19,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,238,19:02:19,19,225,03:53.4,210.1,Running 
+1152,19,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,238,19:02:26,21,210,03:50.7,212.6,Running 
+1153,19,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,238,19:03:51,19,16,03:53.1,210.5,Running 
+1154,19,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,236,19:03:14,18,11,03:54.7,209,Running 
+1155,19,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,236,19:04:10,25,204,03:37.8,225.2,Running 
+1156,19,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,235,19:03:00,24,10,03:37.8,225.2,Running 
+1157,19,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,234,19:04:17,24,233,03:37.3,225.7,Running 
+1158,19,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,233,19:03:53,20,181,03:53.2,210.3,Running 
+1159,19,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Retired
+1160,19,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Retired
+1161,19,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,165,15:11:45,19,125,03:32.6,230.7,Retired
+1162,19,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Retired
+1163,19,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Retired
+1164,19,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+1165,19,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Retired
+1166,19,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+1167,19,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+1168,19,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+1169,19,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+1170,19,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+1171,19,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+1172,19,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+1173,19,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+1174,19,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+1175,19,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+1176,19,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+1177,19,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+1178,19,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+1179,20,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,277,20:00:51,25,264,03:27.9,236,Running 
+1180,20,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,277,20:00:52,25,270,03:28.3,235.5,Running 
+1181,20,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,276,20:00:16,24,263,03:28.0,235.9,Running 
+1182,20,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,276,20:05:11,25,12,03:28.3,235.5,Running 
+1183,20,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,274,20:01:12,25,260,03:29.8,233.8,Running 
+1184,20,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,272,20:04:41,25,236,03:28.7,235.1,Running 
+1185,20,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,271,20:00:56,26,239,03:27.4,236.5,Running 
+1186,20,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,270,20:00:39,27,258,03:29.8,233.8,Running 
+1187,20,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,270,20:00:52,26,29,03:30.1,233.5,Running 
+1188,20,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,267,20:01:05,25,240,03:29.4,234.3,Running 
+1189,20,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,266,20:04:59,28,252,03:37.6,225.4,Running 
+1190,20,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,265,20:01:10,26,11,03:36.4,226.7,Running 
+1191,20,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,265,20:04:57,30,253,03:37.0,226.1,Running 
+1192,20,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,265,20:05:02,26,253,03:36.8,226.3,Running 
+1193,20,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,265,20:05:19,26,10,03:38.1,225,Running 
+1194,20,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,264,20:01:07,26,249,03:36.4,226.7,Running 
+1195,20,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,264,20:01:15,28,10,03:37.4,225.6,Running 
+1196,20,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,263,19:59:36,25,238,03:37.3,225.7,Running 
+1197,20,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,263,20:00:52,25,11,03:37.7,225.3,Running 
+1198,20,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,261,20:04:20,27,227,03:37.5,225.5,Running 
+1199,20,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,261,20:04:39,27,209,03:37.0,226.1,Running 
+1200,20,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,261,20:04:45,27,10,03:38.1,225,Running 
+1201,20,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,260,20:03:42,26,9,03:38.0,225,Running 
+1202,20,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,259,20:04:47,24,245,03:28.3,235.5,Running 
+1203,20,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,255,19:31:24,22,227,03:28.3,235.5,Running 
+1204,20,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,255,20:01:16,29,223,03:37.1,226,Running 
+1205,20,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,254,20:04:39,18,221,03:53.6,210,Running 
+1206,20,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,254,20:04:46,21,242,03:51.5,211.9,Running 
+1207,20,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,254,20:05:10,20,8,03:51.3,212.1,Running 
+1208,20,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,253,20:01:13,20,11,03:51.4,211.9,Running 
+1209,20,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,253,20:02:26,21,184,03:51.7,211.7,Running 
+1210,20,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,253,20:02:53,20,8,03:52.1,211.3,Running 
+1211,20,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,253,20:04:29,21,8,03:52.5,211,Running 
+1212,20,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,252,20:01:14,22,210,03:50.7,212.6,Running 
+1213,20,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,252,20:04:08,19,225,03:53.4,210.1,Running 
+1214,20,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,250,20:04:10,26,204,03:37.8,225.2,Running 
+1215,20,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,250,20:05:19,19,11,03:54.7,209,Running 
+1216,20,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,248,20:04:05,26,233,03:37.3,225.7,Running 
+1217,20,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,248,20:04:41,26,10,03:37.8,225.2,Running 
+1218,20,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,246,19:37:05,20,16,03:53.1,210.5,Running 
+1219,20,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,246,20:01:25,21,181,03:53.2,210.3,Running 
+1220,20,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,238,18:23:49,23,228,03:28.1,235.7,Running 
+1221,20,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Retired
+1222,20,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Retired
+1223,20,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,165,15:11:45,19,125,03:32.6,230.7,Retired
+1224,20,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Retired
+1225,20,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Retired
+1226,20,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+1227,20,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Retired
+1228,20,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+1229,20,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+1230,20,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+1231,20,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+1232,20,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+1233,20,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+1234,20,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+1235,20,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+1236,20,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+1237,20,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+1238,20,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+1239,20,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+1240,20,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+1241,21,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,293,21:00:22,26,285,03:28.0,235.8,Running 
+1242,21,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,292,21:01:22,25,263,03:28.0,235.9,Running 
+1243,21,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,291,21:00:52,26,12,03:28.3,235.5,Running 
+1244,21,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,289,21:00:55,27,280,03:29.1,234.6,Running 
+1245,21,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,287,20:59:43,27,284,03:28.3,235.5,Running 
+1246,21,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,287,21:00:26,27,281,03:27.4,236.5,Running 
+1247,21,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,286,21:02:00,27,29,03:30.1,233.5,Running 
+1248,21,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,286,21:02:28,29,258,03:29.8,233.8,Running 
+1249,21,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,281,20:53:50,27,275,03:28.4,235.3,Running 
+1250,21,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,281,21:02:47,30,280,03:36.7,226.3,Running 
+1251,21,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,281,21:03:07,27,11,03:36.4,226.7,Running 
+1252,21,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,280,21:01:49,27,273,03:36.2,226.9,Running 
+1253,21,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,280,21:01:56,31,272,03:36.6,226.5,Running 
+1254,21,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,280,21:02:50,27,249,03:36.4,226.7,Running 
+1255,21,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,280,21:03:06,27,10,03:38.1,225,Running 
+1256,21,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,280,21:03:26,29,10,03:37.4,225.6,Running 
+1257,21,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,278,21:00:06,27,11,03:37.7,225.3,Running 
+1258,21,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,277,21:03:07,26,238,03:37.3,225.7,Running 
+1259,21,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,276,21:01:24,29,270,03:37.2,225.8,Running 
+1260,21,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,276,21:01:38,28,265,03:36.7,226.4,Running 
+1261,21,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,276,21:03:26,28,10,03:38.1,225,Running 
+1262,21,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,275,21:01:24,27,9,03:38.0,225,Running 
+1263,21,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,275,21:03:14,25,245,03:28.3,235.5,Running 
+1264,21,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,271,21:01:01,23,227,03:28.3,235.5,Running 
+1265,21,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,271,21:03:08,31,223,03:37.1,226,Running 
+1266,21,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,268,21:01:52,21,261,03:50.4,212.9,Running 
+1267,21,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,268,21:02:14,19,221,03:53.6,210,Running 
+1268,21,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,268,21:02:43,22,242,03:51.5,211.9,Running 
+1269,21,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,267,21:00:41,22,11,03:51.4,211.9,Running 
+1270,21,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,267,21:00:59,21,8,03:52.1,211.3,Running 
+1271,21,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,267,21:01:20,22,263,03:50.8,212.6,Running 
+1272,21,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,266,21:01:36,20,264,03:53.3,210.2,Running 
+1273,21,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,264,21:00:41,28,204,03:37.8,225.2,Running 
+1274,21,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,264,21:02:54,20,11,03:54.7,209,Running 
+1275,21,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,263,21:01:24,27,233,03:37.3,225.7,Running 
+1276,21,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,263,21:03:22,27,10,03:37.8,225.2,Running 
+1277,21,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,261,21:03:31,22,181,03:53.2,210.3,Running 
+1278,21,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,254,20:08:24,21,8,03:52.5,211,Running 
+1279,21,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,254,20:11:05,23,210,03:50.7,212.6,Running 
+1280,21,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,242,20:33:33,25,228,03:28.1,235.7,Running 
+1281,21,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,246,19:37:05,20,16,03:53.1,210.5,Retired
+1282,21,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Retired
+1283,21,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Retired
+1284,21,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,165,15:11:45,19,125,03:32.6,230.7,Retired
+1285,21,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Retired
+1286,21,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Retired
+1287,21,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+1288,21,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Retired
+1289,21,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+1290,21,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+1291,21,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+1292,21,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+1293,21,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+1294,21,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+1295,21,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+1296,21,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+1297,21,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+1298,21,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+1299,21,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+1300,21,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+1301,21,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+1302,22,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,310,22:00:52,27,264,03:27.9,236,Running 
+1303,22,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,310,22:01:01,27,308,03:27.5,236.3,Running 
+1304,22,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,309,22:03:03,26,263,03:28.0,235.9,Running 
+1305,22,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,307,21:59:39,28,12,03:28.3,235.5,Running 
+1306,22,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,304,22:01:37,28,298,03:27.7,236.2,Running 
+1307,22,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,304,22:02:29,29,281,03:27.4,236.5,Running 
+1308,22,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,303,22:03:08,28,294,03:29.6,234.1,Running 
+1309,22,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,302,22:01:25,30,258,03:29.8,233.8,Running 
+1310,22,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,298,22:01:33,28,290,03:28.8,234.9,Running 
+1311,22,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,297,22:02:27,32,280,03:36.7,226.3,Running 
+1312,22,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,297,22:03:57,29,11,03:36.4,226.7,Running 
+1313,22,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,296,22:01:39,29,273,03:36.2,226.9,Running 
+1314,22,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,296,22:02:01,33,272,03:36.6,226.5,Running 
+1315,22,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,296,22:03:44,29,293,03:36.0,227.1,Running 
+1316,22,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,295,21:59:34,29,286,03:37.5,225.5,Running 
+1317,22,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,295,22:00:55,31,10,03:37.4,225.6,Running 
+1318,22,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,294,22:02:10,28,11,03:37.7,225.3,Running 
+1319,22,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,292,22:01:24,27,275,03:28.4,235.3,Running 
+1320,22,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,292,22:02:28,30,270,03:37.2,225.8,Running 
+1321,22,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,292,22:04:09,26,289,03:28.0,235.9,Running 
+1322,22,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,291,22:00:58,30,10,03:38.1,225,Running 
+1323,22,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,291,22:03:27,29,9,03:38.0,225,Running 
+1324,22,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,289,22:01:43,31,265,03:36.7,226.4,Running 
+1325,22,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR H,M,288,22:03:25,25,227,03:28.3,235.5,Running 
+1326,22,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,286,22:00:52,32,223,03:37.1,226,Running 
+1327,22,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,285,21:32:41,27,238,03:37.3,225.7,Running 
+1328,22,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,283,22:01:32,22,261,03:50.4,212.9,Running 
+1329,22,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,283,22:02:52,20,221,03:53.6,210,Running 
+1330,22,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,283,22:03:05,23,242,03:51.5,211.9,Running 
+1331,22,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,283,22:04:05,23,11,03:51.4,211.9,Running 
+1332,22,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,282,22:00:48,23,263,03:50.8,212.6,Running 
+1333,22,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,282,22:01:53,22,8,03:52.1,211.3,Running 
+1334,22,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,281,22:01:45,21,264,03:53.3,210.2,Running 
+1335,22,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,280,22:00:49,29,204,03:37.8,225.2,Running 
+1336,22,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,279,22:03:14,28,10,03:37.8,225.2,Running 
+1337,22,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,278,22:00:26,21,11,03:54.7,209,Running 
+1338,22,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,275,21:48:46,29,233,03:37.3,225.7,Running 
+1339,22,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,275,22:01:11,23,181,03:53.2,210.3,Running 
+1340,22,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,258,22:03:46,24,257,03:50.5,212.8,Running 
+1341,22,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,254,20:08:24,21,8,03:52.5,211,Running 
+1342,22,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,242,20:33:33,25,228,03:28.1,235.7,Running 
+1343,22,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,246,19:37:05,20,16,03:53.1,210.5,Retired
+1344,22,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Retired
+1345,22,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Retired
+1346,22,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,165,15:11:45,19,125,03:32.6,230.7,Retired
+1347,22,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Retired
+1348,22,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Retired
+1349,22,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+1350,22,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Retired
+1351,22,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+1352,22,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+1353,22,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+1354,22,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+1355,22,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+1356,22,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+1357,22,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+1358,22,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+1359,22,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+1360,22,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+1361,22,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+1362,22,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+1363,22,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+1364,23,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,327,23:03:12,29,264,03:27.9,236,Running 
+1365,23,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,327,23:06:17,30,308,03:27.5,236.3,Running 
+1366,23,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,326,23:06:21,28,263,03:28.0,235.9,Running 
+1367,23,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,325,23:06:14,29,12,03:28.3,235.5,Running 
+1368,23,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,322,23:05:54,29,298,03:27.7,236.2,Running 
+1369,23,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,322,23:06:18,30,306,03:27.0,237,Running 
+1370,23,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,320,23:06:45,30,294,03:29.6,234.1,Running 
+1371,23,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,319,23:04:43,32,258,03:29.8,233.8,Running 
+1372,23,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,316,23:06:06,30,290,03:28.8,234.9,Running 
+1373,23,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,313,23:03:38,33,280,03:36.7,226.3,Running 
+1374,23,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,313,23:03:52,30,11,03:36.4,226.7,Running 
+1375,23,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,312,23:03:26,30,293,03:36.0,227.1,Running 
+1376,23,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,312,23:03:32,34,272,03:36.6,226.5,Running 
+1377,23,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,312,23:04:24,32,10,03:37.4,225.6,Running 
+1378,23,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,312,23:05:51,31,273,03:36.2,226.9,Running 
+1379,23,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,310,23:03:49,30,11,03:37.7,225.3,Running 
+1380,23,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,309,23:03:48,29,275,03:28.4,235.3,Running 
+1381,23,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,309,23:06:45,28,289,03:28.0,235.9,Running 
+1382,23,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,308,23:03:55,32,270,03:37.2,225.8,Running 
+1383,23,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,308,23:06:15,31,10,03:38.1,225,Running 
+1384,23,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,307,23:04:27,30,9,03:38.0,225,Running 
+1385,23,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,306,22:54:12,30,286,03:37.5,225.5,Running 
+1386,23,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,306,23:04:51,32,265,03:36.7,226.4,Running 
+1387,23,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR ,M,305,23:05:33,27,227,03:28.3,235.5,Running 
+1388,23,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,303,23:04:29,33,223,03:37.1,226,Running 
+1389,23,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDI,Oreca 07 - Gibson,LMP2,G,301,23:04:08,28,238,03:37.3,225.7,Running 
+1390,23,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,299,23:05:25,23,261,03:50.4,212.9,Running 
+1391,23,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,298,23:03:09,24,242,03:51.5,211.9,Running 
+1392,23,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,298,23:03:25,21,221,03:53.6,210,Running 
+1393,23,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,298,23:04:08,25,11,03:51.4,211.9,Running 
+1394,23,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,298,23:04:22,24,263,03:50.8,212.6,Running 
+1395,23,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,298,23:05:46,23,8,03:52.1,211.3,Running 
+1396,23,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,297,23:06:00,22,295,03:52.0,211.4,Running 
+1397,23,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,297,23:06:43,31,204,03:37.8,225.2,Running 
+1398,23,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,295,23:04:50,30,10,03:37.8,225.2,Running 
+1399,23,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,294,23:05:13,22,292,03:54.5,209.2,Running 
+1400,23,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,290,23:05:34,24,181,03:53.2,210.3,Running 
+1401,23,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,289,23:05:49,30,233,03:37.3,225.7,Running 
+1402,23,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,G,271,23:04:21,25,257,03:50.5,212.8,Running 
+1403,23,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,242,20:33:33,25,228,03:28.1,235.7,Running 
+1404,23,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,254,20:08:24,21,8,03:52.5,211,Retired
+1405,23,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,246,19:37:05,20,16,03:53.1,210.5,Retired
+1406,23,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Retired
+1407,23,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Retired
+1408,23,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,165,15:11:45,19,125,03:32.6,230.7,Retired
+1409,23,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Retired
+1410,23,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Retired
+1411,23,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+1412,23,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Retired
+1413,23,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+1414,23,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+1415,23,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+1416,23,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+1417,23,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+1418,23,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+1419,23,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+1420,23,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+1421,23,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+1422,23,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+1423,23,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+1424,23,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
+1425,23,14,Nielsen Racing,R. SALES / M. BECHE / B. HANLEY,Oreca 07 - Gibson,LMP2,G,18,01:27:23,2,13,03:44.2,218.8,Retired
+1426,24,51,Ferrari AF Corse,A. PIER GUIDI / J. CALADO / A. GIOVINAZZI,Ferrari 499P,HYPERCAR,M,342,00:00:18,30,264,03:27.9,236,Running 
+1427,24,8,Toyota Gazoo Racing,S. BUEMI / B. HARTLEY / R. HIRAKAWA,Toyota GR010 HYBRID,HYPERCAR,M,342,00:01:40,31,308,03:27.5,236.3,Running 
+1428,24,2,Cadillac Racing,E. BAMBER / A. LYNN / R. WESTBROOK,Cadillac V-Series.R,HYPERCAR,M,341,00:02:37,29,263,03:28.0,235.9,Running 
+1429,24,3,Cadillac Racing,S. BOURDAIS / R. VAN DER ZANDE / S. DIXON,Cadillac V-Series.R,HYPERCAR,M,340,00:02:37,30,12,03:28.3,235.5,Running 
+1430,24,50,Ferrari AF Corse,A. FUOCO / M. MOLINA / N. NIELSEN,Ferrari 499P,HYPERCAR,M,337,00:01:32,31,307,03:27.2,236.7,Running 
+1431,24,708,Glickenhaus Racing,R. DUMAS / R. BRISCOE / O. PLA,Glickenhaus 007,HYPERCAR,M,335,00:02:48,31,294,03:29.6,234.1,Running 
+1432,24,709,Glickenhaus Racing,F. MAILLEUX / N. BERTHON / E. GUTIERREZ,Glickenhaus 007,HYPERCAR,M,333,00:01:12,33,261,03:29.9,233.7,Running 
+1433,24,93,Peugeot TotalEnergies,P. DI RESTA / M. JENSEN / J. VERGNE,Peugeot 9X8,HYPERCAR,M,330,00:00:25,31,290,03:28.8,234.9,Running 
+1434,24,34,Inter Europol Competition,J. SMIECHOWSKI / A. COSTA / F. SCHERER,Oreca 07 - Gibson,LMP2,G,328,00:00:51,34,280,03:36.7,226.3,Running 
+1435,24,41,Team WRT,R. ANDRADE / L. DELÉTRAZ / R. KUBICA,Oreca 07 - Gibson,LMP2,G,328,00:01:12,31,315,03:36.1,226.9,Running 
+1436,24,30,Duqueine Team,N. JANI / R. BINDER / N. PINO,Oreca 07 - Gibson,LMP2,G,327,00:01:36,35,272,03:36.6,226.5,Running 
+1437,24,36,Alpine Elf Team,M. VAXIVIERE / C. MILESI / J. CANAL,Oreca 07 - Gibson,LMP2,G,327,00:02:54,34,10,03:37.4,225.6,Running 
+1438,24,31,Team WRT,S. GELAEL / F. HABSBURG / R. FRIJNS,Oreca 07 - Gibson,LMP2,G,327,00:03:10,32,293,03:36.0,227.1,Running 
+1439,24,48,IDEC Sport,P. LAFARGUE / P. CHATIN / L. HÃ–RR,Oreca 07 - Gibson,LMP2,G,327,00:03:36,32,274,03:36.5,226.6,Running 
+1440,24,10,Vector Sport,R. CULLEN / G. AUBRY / M. KAISER,Oreca 07 - Gibson,LMP2,G,325,00:03:07,31,11,03:37.7,225.3,Running 
+1441,24,5,Porsche Penske Motorsport,D. CAMERON / M. CHRISTENSEN / F. MAKOWIECKI,Porsche 963,HYPERCAR,M,325,00:05:15,31,320,03:28.0,235.8,Running 
+1442,24,311,Action Express Racing,L. DERANI / A. SIMS / J. AITKEN,Cadillac V-Series.R,HYPERCAR,M,324,00:02:38,29,289,03:28.0,235.9,Running 
+1443,24,23,United Autosports,J. PIERSON / T. BLOMQVIST / O. JARVIS,Oreca 07 - Gibson,LMP2,G,323,00:01:35,33,270,03:37.2,225.8,Running 
+1444,24,35,Alpine Elf Team,A. NEGRÃO / O. CALDWELL / M. ROJAS,Oreca 07 - Gibson,LMP2,G,322,00:00:43,32,10,03:38.1,225,Running 
+1445,24,45,Algarve Pro Racing,G. KURTZ / J. ALLEN / C. BRAUN,Oreca 07 - Gibson,LMP2,G,322,00:03:22,31,9,03:38.0,225,Running 
+1446,24,22,United Autosports,P. HANSON / F. ALBUQUERQUE / F. LUBIN,Oreca 07 - Gibson,LMP2,G,321,00:03:00,34,265,03:36.7,226.4,Running 
+1447,24,6,Porsche Penske Motorsport,K. ESTRE / A. LOTTERER / L. VANTHOOR,Porsche 963,HYPERCAR,M,320,00:00:46,28,307,03:28.3,235.5,Running 
+1448,24,37,COOL Racing,N. LAPIERRE / A. COIGNY / M. JAKOBSEN,Oreca 07 - Gibson,LMP2,G,317,00:02:44,35,223,03:37.1,226,Running 
+1449,24,28,JOTA,D. HEINEMEIER-HANSSON / O. RASMUSSEN / P. FITTIPALDIOreca 07 - Gibson,,LMP2,G,316,00:02:11,29,238,03:37.3,225.7,Running 
+1450,24,65,Panis Racing,M. MALDONADO / T. VAN DER HELM / J. VAN UITERT,Oreca 07 - Gibson,LMP2,G,316,00:02:57,30,286,03:37.5,225.5,Running 
+1451,24,33,Corvette Racing,N. CATSBURG / B. KEATING / N. VARRONE,Chevrolet Corvette C8.R,LMGTE Am,M,313,00:02:47,24,261,03:50.4,212.9,Running 
+1452,24,94,Peugeot TotalEnergies,L. DUVAL / G. MENEZES / N. MÃœLLER,Peugeot 9X8,HYPERCAR,M,312,00:00:25,30,275,03:28.4,235.3,Running 
+1453,24,25,ORT by TF,A. AL HARTHY / M. DINAN / C. EASTWOOD,Aston Martin Vantage AMR,LMGTE Am,M,312,00:00:49,25,242,03:51.5,211.9,Running 
+1454,24,86,GR Racing,M. WAINWRIGHT / B. BARKER / R. PERA,Porsche 911 RSR - 19,LMGTE Am,M,312,00:01:46,25,263,03:50.8,212.6,Running 
+1455,24,85,Iron Dames,S. BOVY / M. GATTING / R. FREY,Porsche 911 RSR - 19,LMGTE Am,M,312,00:01:52,22,221,03:53.6,210,Running 
+1456,24,54,AF Corse,T. FLOHR / F. CASTELLACCI / D. RIGON,Ferrari 488 GTE Evo,LMGTE Am,M,312,00:03:26,24,8,03:52.1,211.3,Running 
+1457,24,43,DKR Engineering,T. VAN ROMPUY / U. DE WILDE / M. MARTIN,Oreca 07 - Gibson,LMP2,G,311,00:03:24,33,204,03:37.8,225.2,Running 
+1458,24,98,Northwest AMR,I. JAMES / D. MANCINELLI / A. RIBERAS,Aston Martin Vantage AMR,LMGTE Am,M,310,00:00:35,23,295,03:52.0,211.4,Running 
+1459,24,9,Prema Racing,B. VISCAAL / J. CORREA / F. UGRAN,Oreca 07 - Gibson,LMP2,G,310,00:02:57,31,10,03:37.8,225.2,Running 
+1460,24,56,Project 1 - AO,P. HYETT / G. JEANNETTE / M. CAIROLI,Porsche 911 RSR - 19,LMGTE Am,M,309,00:00:24,25,11,03:51.4,211.9,Running 
+1461,24,100,Walkenhorst Motorsport,C. HULL / A. HARYANTO / J. SEGAL,Ferrari 488 GTE Evo,LMGTE Am,M,307,00:00:19,23,293,03:54.6,209.1,Running 
+1462,24,39,Graff Racing,R. LACORTE / G. VAN DER GARDE / P. PILET,Oreca 07 - Gibson,LMP2,G,303,00:01:39,31,266,03:37.3,225.7,Running 
+1463,24,74,Kessel Racing,K. COZZOLINO / Y. TSUJIKO / N. YOKOMIZO,Ferrari 488 GTE Evo,LMGTE Am,M,303,00:03:21,25,181,03:53.2,210.3,Running 
+1464,24,24,Hendrick Motorsports,J. JOHNSON / M. ROCKENFELLER / J. BUTTON,Chevrolet Camaro ZL1,INNOVATIVE CAR,,285,00:02:14,26,257,03:50.5,212.8,Running 
+1465,24,38,Hertz Team JOTA,A. DA COSTA / W. STEVENS / Y. YE,Porsche 963,HYPERCAR,M,244,00:01:07,26,228,03:28.1,235.7,Running 
+1466,24,57,Kessel Racing,T. KIMURA / S. HUFFAKER / D. SERRA,Ferrari 488 GTE Evo,LMGTE Am,M,254,20:08:24,21,8,03:52.5,211,Retired
+1467,24,911,Proton Competition,M. FASSBENDER / M. RUMP / R. LIETZ,Porsche 911 RSR - 19,LMGTE Am,M,246,19:37:05,20,16,03:53.1,210.5,Retired
+1468,24,80,AF Corse,F. PERRODO / B. BARNICOAT / N. NATO,Oreca 07 - Gibson,LMP2,G,183,14:31:45,18,149,03:39.8,223.2,Retired
+1469,24,88,Proton Competition,H. TINCKNELL / D. YOUNT / J. RIED,Porsche 911 RSR - 19,LMGTE Am,M,170,13:57:05,13,147,03:51.8,211.6,Retired
+1470,24,4,Floyd Vanwall Racing Team,T. DILLMANN / E. GUERRIERI / T. VAUTIER,Vanwall Vandervell 680,HYPERCAR,M,165,15:11:45,19,125,03:32.6,230.7,Retired
+1471,24,777,D'Station Racing,S. HOSHINO / C. STEVENSON / T. FUJII,Aston Martin Vantage AMR,LMGTE Am,M,163,13:41:59,14,149,03:54.7,209,Retired
+1472,24,47,COOL Racing,DE GÉRUS / V. LOMKO / S. PAGENAUD,Oreca 07 - Gibson,LMP2,G,158,12:41:04,16,10,03:37.3,225.7,Retired
+1473,24,77,Dempsey - Proton Racing,C. RIED / M. PEDERSEN / J. ANDLAUER,Porsche 911 RSR - 19,LMGTE Am,M,118,10:31:04,14,89,03:55.1,208.7,Retired
+1474,24,32,Inter Europol Competition,M. KVAMME / J. MAGNUSSEN / A. FJORDBACH,Oreca 07 - Gibson,LMP2,G,117,11:07:56,15,57,03:39.4,223.6,Retired
+1475,24,63,Prema Racing,D. PIN / D. KVYAT / M. BORTOLOTTI,Oreca 07 - Gibson,LMP2,G,113,09:35:29,11,65,03:39.3,223.7,Retired
+1476,24,7,Toyota Gazoo Racing,M. CONWAY / K. KOBAYASHI / J. LOPEZ,Toyota GR010 HYBRID,HYPERCAR,M,103,07:58:44,10,12,03:30.0,233.6,Retired
+1477,24,66,JMW Motorsport,T. NEUBAUER / L. PRETTE / G. PETROBELLI,Ferrari 488 GTE Evo,LMGTE Am,M,89,07:58:43,8,8,03:53.1,210.5,Retired
+1478,24,923,Racing Team Turkey,S. YOLUC / T. GAMBLE / D. VANTHOOR,Oreca 07 - Gibson,LMP2,G,87,07:50:02,10,9,03:37.6,225.4,Retired
+1479,24,75,Porsche Penske Motorsport,F. NASR / M. JAMINET / N. TANDY,Porsche 963,HYPERCAR,M,84,06:44:44,7,12,03:29.9,233.7,Retired
+1480,24,72,TF Sport,A. ROBIN / M. ROBIN / V. HASSE-CLOT,Aston Martin Vantage AMR,LMGTE Am,M,58,05:15:31,5,14,03:55.0,208.7,Retired
+1481,24,83,Richard Mille AF Corse,L. PEREZ COMPANC / A. ROVERA / L. WADOUX,Ferrari 488 GTE Evo,LMGTE Am,M,33,02:46:33,3,8,03:52.5,211,Retired
+1482,24,60,Iron Lynx,C. SCHIAVONI / M. CRESSONI / A. PICARIELLO,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:55,2,8,03:51.4,212,Retired
+1483,24,16,Proton Competition,R. HARDWICK / Z. ROBICHON / J. HEYLEN,Porsche 911 RSR - 19,LMGTE Am,M,28,02:20:57,2,10,03:58.7,205.5,Retired
+1484,24,55,GMB Motorsport,G. BIRCH / M. SØRENSEN/ J. MØLLER,Aston Martin Vantage AMR,LMGTE Am,M,21,01:45:27,2,17,03:56.2,207.7,Retired
+1485,24,21,AF Corse,S. MANN / J. PIGUET / U. DE PAUW,Ferrari 488 GTE Evo,LMGTE Am,M,21,01:45:28,2,11,03:54.8,208.9,Retired
+1486,24,13,Tower Motorsports,S. THOMAS / R. TAYLOR / R. RAST,Oreca 07 - Gibson,LMP2,G,19,01:34:25,3,10,03:39.1,223.9,Retired
